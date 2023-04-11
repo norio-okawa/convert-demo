@@ -1,0 +1,9090 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2023-04-11T13:25:07Z",
+	"lastUpdatedDateTime": "2023-04-11T13:25:10Z",
+	"analyzeResult": {
+		"apiVersion": "2022-08-31",
+		"modelId": "DT4_sunbelt_rentals_test3_1",
+		"stringIndexType": "utf16CodeUnit",
+		"content": "SUNBELT® RENTALS\nCREDIT HIRE CONTRACT 447-010443 15-JUN-22\nPage 1 of 1\nCustomer 500586\nCUSTOMER: Scottish Water (GTCL) ADDRESS: Galliford Try, Po Box 7440, Hinckley POSTCODE: Leicestershire, LE10 1YL TELEPHONE: 01455896350\nSite SITE ADDRESS: Millden, Balmedie Junction A90, Balmedie, Aberdeenshire, Tom McClenaghan, AB23 8XS\nSITE TELEPHONE: 07526173415\nSITE REF: N/A\nHIRER NAME: COLIN RUTHERFORD\nSunbelt Rentals Ltd 102 Dalton Avenue Birchwood Park Warrington WA3 6YE t > 01925 281000 f > 01925 281001 w > www.sunbeltrentals.co.uk Registered No. 444569 England & Wales VAT no. GB 209 5687 37\nService Centre 447\nSERVICE CENTRE: 447\nADDRESS: Edinburgh - Utils. (447)\nBLOCK 3, FACTORY ROAD, WHITESIDE INDUSTRIAL\nESTATE, BATHGATE, WEST LOTHIAN\nPOSTCODE: EH48 2RX, 01506 656938\nSERVED BY: ANNE LINDSAY\nTELEPHONE: 01506 656938\nORDER NO: 5245001489\nCode\nDescription\nFrom\nTo\nQty\nPer\nA1085653\n40V ELECTRO-FUSION BOX\n16-JUN-22\n1\nWK\n288350\n40V ELECTROFUSION LEAD\n16-JUN-22\n1\nWK\nA1081675\nTIN 12 7.5KVA P.GENERATOR\n16-JUN-22\n4\n1\nWK\nA709080\n180mm ALIGNMENT CLAMP\n16-JUN-22\n1\nWK\nA700605\nSHELTER M: 2.5 x 2.5x2m\n16-JUN-22\n1\nWK\nA1237039\nMech.Pipe Scraper 63-250\n16-JUN-22\n1\nWK\nPSSDEL1\nDELIVERY CHARGE\n1\nSLE\nPSSCOL1\nCOLLECTION CHARGE\n1\nSLE\nNOTE: YOU ARE NOT COVEREDBY SU NBELT RENTALS INSURANCE\n63MM PIPE\nBooking Reference 4691258\nCUSTOMEYECORK\nINSURANCE IS THE CUSTOMERS RESPONSIBILITY. IF NEEDED CALL 0370 050 0797 AND ASK ABOUT SUNBELT RENTALS INSURANCE.\n+ A VAST RANGE OF TRAINING COURSES ARE AVAILABLE. FOR MORE INFORMATION CALL SUNBELT RENTALS CUSTOMER TRAINING SOLUTIONS ON 0115 924 1349 OR PLEASE VISIT OUR WEBSITE AT www.sunbeltrentals.co.uk TERMS AND CONDITIONS OF HIRE ARE AVAILABLE FROM YOUR DRIVER OR ON OUR WEBSITE AT www.sunbeltrentals.co.uk",
+		"pages": [
+			{
+				"pageNumber": 1,
+				"angle": -0.5968000292778015,
+				"width": 1200,
+				"height": 1600,
+				"unit": "pixel",
+				"words": [
+					{
+						"content": "SUNBELT®",
+						"polygon": [
+							121,
+							143,
+							250,
+							139,
+							251,
+							165,
+							121,
+							167
+						],
+						"confidence": 0.771,
+						"span": {
+							"offset": 0,
+							"length": 8
+						}
+					},
+					{
+						"content": "RENTALS",
+						"polygon": [
+							137,
+							165,
+							223,
+							163,
+							223,
+							174,
+							137,
+							176
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 9,
+							"length": 7
+						}
+					},
+					{
+						"content": "CREDIT",
+						"polygon": [
+							103,
+							208,
+							161,
+							206,
+							162,
+							224,
+							104,
+							225
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 17,
+							"length": 6
+						}
+					},
+					{
+						"content": "HIRE",
+						"polygon": [
+							165,
+							206,
+							207,
+							204,
+							207,
+							223,
+							166,
+							224
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 24,
+							"length": 4
+						}
+					},
+					{
+						"content": "CONTRACT",
+						"polygon": [
+							211,
+							204,
+							309,
+							202,
+							309,
+							222,
+							211,
+							223
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 29,
+							"length": 8
+						}
+					},
+					{
+						"content": "447-010443",
+						"polygon": [
+							313,
+							201,
+							412,
+							199,
+							412,
+							220,
+							313,
+							222
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 38,
+							"length": 10
+						}
+					},
+					{
+						"content": "15-JUN-22",
+						"polygon": [
+							417,
+							199,
+							501,
+							198,
+							501,
+							218,
+							417,
+							220
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 49,
+							"length": 9
+						}
+					},
+					{
+						"content": "Page",
+						"polygon": [
+							102,
+							240,
+							132,
+							239,
+							133,
+							254,
+							102,
+							255
+						],
+						"confidence": 0.979,
+						"span": {
+							"offset": 59,
+							"length": 4
+						}
+					},
+					{
+						"content": "1",
+						"polygon": [
+							135,
+							239,
+							142,
+							238,
+							143,
+							253,
+							136,
+							254
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 64,
+							"length": 1
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							145,
+							238,
+							159,
+							237,
+							160,
+							252,
+							146,
+							253
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 66,
+							"length": 2
+						}
+					},
+					{
+						"content": "1",
+						"polygon": [
+							162,
+							237,
+							170,
+							237,
+							172,
+							252,
+							163,
+							252
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 69,
+							"length": 1
+						}
+					},
+					{
+						"content": "Customer",
+						"polygon": [
+							244,
+							283,
+							329,
+							281,
+							329,
+							300,
+							244,
+							301
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 71,
+							"length": 8
+						}
+					},
+					{
+						"content": "500586",
+						"polygon": [
+							332,
+							281,
+							402,
+							280,
+							402,
+							299,
+							332,
+							300
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 80,
+							"length": 6
+						}
+					},
+					{
+						"content": "CUSTOMER:",
+						"polygon": [
+							149,
+							310,
+							225,
+							308,
+							225,
+							324,
+							149,
+							325
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 87,
+							"length": 9
+						}
+					},
+					{
+						"content": "Scottish",
+						"polygon": [
+							228,
+							307,
+							276,
+							306,
+							276,
+							323,
+							228,
+							323
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 97,
+							"length": 8
+						}
+					},
+					{
+						"content": "Water",
+						"polygon": [
+							279,
+							306,
+							317,
+							306,
+							317,
+							322,
+							279,
+							323
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 106,
+							"length": 5
+						}
+					},
+					{
+						"content": "(GTCL)",
+						"polygon": [
+							320,
+							306,
+							366,
+							305,
+							366,
+							321,
+							320,
+							322
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 112,
+							"length": 6
+						}
+					},
+					{
+						"content": "ADDRESS:",
+						"polygon": [
+							163,
+							327,
+							226,
+							325,
+							226,
+							340,
+							163,
+							341
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 119,
+							"length": 8
+						}
+					},
+					{
+						"content": "Galliford",
+						"polygon": [
+							229,
+							325,
+							282,
+							323,
+							281,
+							340,
+							229,
+							340
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 128,
+							"length": 9
+						}
+					},
+					{
+						"content": "Try,",
+						"polygon": [
+							285,
+							323,
+							306,
+							323,
+							305,
+							339,
+							285,
+							340
+						],
+						"confidence": 0.982,
+						"span": {
+							"offset": 138,
+							"length": 4
+						}
+					},
+					{
+						"content": "Po",
+						"polygon": [
+							309,
+							323,
+							326,
+							323,
+							325,
+							339,
+							309,
+							339
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 143,
+							"length": 2
+						}
+					},
+					{
+						"content": "Box",
+						"polygon": [
+							329,
+							323,
+							353,
+							322,
+							353,
+							339,
+							329,
+							339
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 146,
+							"length": 3
+						}
+					},
+					{
+						"content": "7440,",
+						"polygon": [
+							356,
+							322,
+							391,
+							322,
+							390,
+							339,
+							356,
+							339
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 150,
+							"length": 5
+						}
+					},
+					{
+						"content": "Hinckley",
+						"polygon": [
+							394,
+							322,
+							448,
+							322,
+							447,
+							338,
+							393,
+							339
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 156,
+							"length": 8
+						}
+					},
+					{
+						"content": "POSTCODE:",
+						"polygon": [
+							149,
+							343,
+							226,
+							342,
+							226,
+							357,
+							149,
+							358
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 165,
+							"length": 9
+						}
+					},
+					{
+						"content": "Leicestershire,",
+						"polygon": [
+							229,
+							342,
+							314,
+							340,
+							314,
+							356,
+							229,
+							357
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 175,
+							"length": 15
+						}
+					},
+					{
+						"content": "LE10",
+						"polygon": [
+							318,
+							340,
+							347,
+							339,
+							347,
+							355,
+							317,
+							356
+						],
+						"confidence": 0.97,
+						"span": {
+							"offset": 191,
+							"length": 4
+						}
+					},
+					{
+						"content": "1YL",
+						"polygon": [
+							352,
+							339,
+							377,
+							339,
+							376,
+							355,
+							352,
+							355
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 196,
+							"length": 3
+						}
+					},
+					{
+						"content": "TELEPHONE:",
+						"polygon": [
+							147,
+							360,
+							225,
+							359,
+							226,
+							374,
+							148,
+							376
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 200,
+							"length": 10
+						}
+					},
+					{
+						"content": "01455896350",
+						"polygon": [
+							228,
+							359,
+							316,
+							358,
+							316,
+							372,
+							229,
+							374
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 211,
+							"length": 11
+						}
+					},
+					{
+						"content": "Site",
+						"polygon": [
+							308,
+							378,
+							340,
+							378,
+							340,
+							394,
+							308,
+							394
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 223,
+							"length": 4
+						}
+					},
+					{
+						"content": "SITE",
+						"polygon": [
+							134,
+							402,
+							159,
+							402,
+							159,
+							417,
+							134,
+							417
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 228,
+							"length": 4
+						}
+					},
+					{
+						"content": "ADDRESS:",
+						"polygon": [
+							162,
+							402,
+							226,
+							401,
+							226,
+							416,
+							162,
+							417
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 233,
+							"length": 8
+						}
+					},
+					{
+						"content": "Millden,",
+						"polygon": [
+							229,
+							401,
+							280,
+							401,
+							280,
+							416,
+							229,
+							416
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 242,
+							"length": 8
+						}
+					},
+					{
+						"content": "Balmedie",
+						"polygon": [
+							283,
+							400,
+							338,
+							400,
+							338,
+							415,
+							283,
+							416
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 251,
+							"length": 8
+						}
+					},
+					{
+						"content": "Junction",
+						"polygon": [
+							341,
+							400,
+							392,
+							399,
+							392,
+							414,
+							341,
+							415
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 260,
+							"length": 8
+						}
+					},
+					{
+						"content": "A90,",
+						"polygon": [
+							396,
+							399,
+							425,
+							398,
+							425,
+							414,
+							396,
+							414
+						],
+						"confidence": 0.982,
+						"span": {
+							"offset": 269,
+							"length": 4
+						}
+					},
+					{
+						"content": "Balmedie,",
+						"polygon": [
+							428,
+							398,
+							489,
+							397,
+							488,
+							413,
+							428,
+							414
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 274,
+							"length": 9
+						}
+					},
+					{
+						"content": "Aberdeenshire,",
+						"polygon": [
+							231,
+							419,
+							323,
+							418,
+							323,
+							432,
+							232,
+							432
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 284,
+							"length": 14
+						}
+					},
+					{
+						"content": "Tom",
+						"polygon": [
+							231,
+							434,
+							252,
+							434,
+							252,
+							449,
+							231,
+							449
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 299,
+							"length": 3
+						}
+					},
+					{
+						"content": "McClenaghan,",
+						"polygon": [
+							259,
+							434,
+							350,
+							432,
+							350,
+							448,
+							259,
+							449
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 303,
+							"length": 12
+						}
+					},
+					{
+						"content": "AB23",
+						"polygon": [
+							353,
+							432,
+							386,
+							431,
+							386,
+							447,
+							353,
+							448
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 316,
+							"length": 4
+						}
+					},
+					{
+						"content": "8XS",
+						"polygon": [
+							389,
+							431,
+							414,
+							431,
+							415,
+							445,
+							389,
+							447
+						],
+						"confidence": 0.928,
+						"span": {
+							"offset": 321,
+							"length": 3
+						}
+					},
+					{
+						"content": "SITE",
+						"polygon": [
+							117,
+							453,
+							142,
+							453,
+							142,
+							467,
+							117,
+							468
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 325,
+							"length": 4
+						}
+					},
+					{
+						"content": "TELEPHONE:",
+						"polygon": [
+							145,
+							453,
+							226,
+							452,
+							225,
+							466,
+							145,
+							467
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 330,
+							"length": 10
+						}
+					},
+					{
+						"content": "07526173415",
+						"polygon": [
+							228,
+							452,
+							316,
+							450,
+							316,
+							466,
+							228,
+							466
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 341,
+							"length": 11
+						}
+					},
+					{
+						"content": "SITE",
+						"polygon": [
+							169,
+							470,
+							193,
+							470,
+							193,
+							483,
+							169,
+							483
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 353,
+							"length": 4
+						}
+					},
+					{
+						"content": "REF:",
+						"polygon": [
+							196,
+							470,
+							226,
+							470,
+							226,
+							482,
+							196,
+							483
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 358,
+							"length": 4
+						}
+					},
+					{
+						"content": "N/A",
+						"polygon": [
+							230,
+							470,
+							254,
+							469,
+							254,
+							482,
+							230,
+							482
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 363,
+							"length": 3
+						}
+					},
+					{
+						"content": "HIRER",
+						"polygon": [
+							140,
+							487,
+							175,
+							487,
+							175,
+							500,
+							140,
+							501
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 367,
+							"length": 5
+						}
+					},
+					{
+						"content": "NAME:",
+						"polygon": [
+							179,
+							487,
+							226,
+							486,
+							226,
+							500,
+							180,
+							500
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 373,
+							"length": 5
+						}
+					},
+					{
+						"content": "COLIN",
+						"polygon": [
+							229,
+							486,
+							270,
+							485,
+							270,
+							500,
+							229,
+							500
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 379,
+							"length": 5
+						}
+					},
+					{
+						"content": "RUTHERFORD",
+						"polygon": [
+							276,
+							485,
+							364,
+							483,
+							364,
+							499,
+							276,
+							500
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 385,
+							"length": 10
+						}
+					},
+					{
+						"content": "Sunbelt",
+						"polygon": [
+							915,
+							50,
+							960,
+							50,
+							960,
+							65,
+							915,
+							65
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 396,
+							"length": 7
+						}
+					},
+					{
+						"content": "Rentals",
+						"polygon": [
+							963,
+							50,
+							1008,
+							50,
+							1008,
+							64,
+							963,
+							65
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 404,
+							"length": 7
+						}
+					},
+					{
+						"content": "Ltd",
+						"polygon": [
+							1010,
+							50,
+							1030,
+							49,
+							1030,
+							63,
+							1010,
+							64
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 412,
+							"length": 3
+						}
+					},
+					{
+						"content": "102",
+						"polygon": [
+							916,
+							67,
+							937,
+							67,
+							937,
+							81,
+							916,
+							81
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 416,
+							"length": 3
+						}
+					},
+					{
+						"content": "Dalton",
+						"polygon": [
+							940,
+							67,
+							981,
+							67,
+							981,
+							80,
+							940,
+							81
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 420,
+							"length": 6
+						}
+					},
+					{
+						"content": "Avenue",
+						"polygon": [
+							985,
+							67,
+							1031,
+							67,
+							1031,
+							80,
+							985,
+							80
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 427,
+							"length": 6
+						}
+					},
+					{
+						"content": "Birchwood",
+						"polygon": [
+							936,
+							83,
+							1000,
+							82,
+							1000,
+							96,
+							937,
+							97
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 434,
+							"length": 9
+						}
+					},
+					{
+						"content": "Park",
+						"polygon": [
+							1004,
+							82,
+							1031,
+							82,
+							1031,
+							96,
+							1004,
+							96
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 444,
+							"length": 4
+						}
+					},
+					{
+						"content": "Warrington",
+						"polygon": [
+							963,
+							99,
+							1031,
+							99,
+							1030,
+							113,
+							963,
+							113
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 449,
+							"length": 10
+						}
+					},
+					{
+						"content": "WA3",
+						"polygon": [
+							974,
+							115,
+							1004,
+							115,
+							1004,
+							127,
+							974,
+							128
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 460,
+							"length": 3
+						}
+					},
+					{
+						"content": "6YE",
+						"polygon": [
+							1008,
+							114,
+							1032,
+							114,
+							1032,
+							127,
+							1008,
+							127
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 464,
+							"length": 3
+						}
+					},
+					{
+						"content": "t",
+						"polygon": [
+							921,
+							131,
+							925,
+							131,
+							926,
+							145,
+							921,
+							145
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 468,
+							"length": 1
+						}
+					},
+					{
+						"content": ">",
+						"polygon": [
+							928,
+							131,
+							936,
+							131,
+							936,
+							145,
+							928,
+							145
+						],
+						"confidence": 0.932,
+						"span": {
+							"offset": 470,
+							"length": 1
+						}
+					},
+					{
+						"content": "01925",
+						"polygon": [
+							940,
+							131,
+							981,
+							130,
+							981,
+							145,
+							940,
+							145
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 472,
+							"length": 5
+						}
+					},
+					{
+						"content": "281000",
+						"polygon": [
+							985,
+							130,
+							1032,
+							131,
+							1031,
+							144,
+							985,
+							145
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 478,
+							"length": 6
+						}
+					},
+					{
+						"content": "f",
+						"polygon": [
+							921,
+							149,
+							926,
+							148,
+							926,
+							161,
+							921,
+							161
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 485,
+							"length": 1
+						}
+					},
+					{
+						"content": ">",
+						"polygon": [
+							929,
+							148,
+							937,
+							148,
+							937,
+							161,
+							929,
+							161
+						],
+						"confidence": 0.961,
+						"span": {
+							"offset": 487,
+							"length": 1
+						}
+					},
+					{
+						"content": "01925",
+						"polygon": [
+							941,
+							148,
+							981,
+							147,
+							981,
+							160,
+							941,
+							161
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 489,
+							"length": 5
+						}
+					},
+					{
+						"content": "281001",
+						"polygon": [
+							985,
+							146,
+							1033,
+							146,
+							1033,
+							160,
+							985,
+							160
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 495,
+							"length": 6
+						}
+					},
+					{
+						"content": "w",
+						"polygon": [
+							851,
+							167,
+							859,
+							167,
+							860,
+							179,
+							852,
+							180
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 502,
+							"length": 1
+						}
+					},
+					{
+						"content": ">",
+						"polygon": [
+							864,
+							166,
+							872,
+							166,
+							873,
+							179,
+							865,
+							179
+						],
+						"confidence": 0.94,
+						"span": {
+							"offset": 504,
+							"length": 1
+						}
+					},
+					{
+						"content": "www.sunbeltrentals.co.uk",
+						"polygon": [
+							877,
+							166,
+							1033,
+							162,
+							1034,
+							176,
+							877,
+							179
+						],
+						"confidence": 0.957,
+						"span": {
+							"offset": 506,
+							"length": 24
+						}
+					},
+					{
+						"content": "Registered",
+						"polygon": [
+							920,
+							182,
+							973,
+							180,
+							973,
+							193,
+							921,
+							194
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 531,
+							"length": 10
+						}
+					},
+					{
+						"content": "No.",
+						"polygon": [
+							975,
+							180,
+							994,
+							179,
+							994,
+							192,
+							975,
+							192
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 542,
+							"length": 3
+						}
+					},
+					{
+						"content": "444569",
+						"polygon": [
+							997,
+							179,
+							1035,
+							178,
+							1035,
+							191,
+							997,
+							192
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 546,
+							"length": 6
+						}
+					},
+					{
+						"content": "England",
+						"polygon": [
+							950,
+							197,
+							991,
+							195,
+							991,
+							208,
+							951,
+							209
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 553,
+							"length": 7
+						}
+					},
+					{
+						"content": "&",
+						"polygon": [
+							994,
+							195,
+							1002,
+							195,
+							1002,
+							208,
+							994,
+							208
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 561,
+							"length": 1
+						}
+					},
+					{
+						"content": "Wales",
+						"polygon": [
+							1004,
+							195,
+							1037,
+							195,
+							1037,
+							207,
+							1004,
+							208
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 563,
+							"length": 5
+						}
+					},
+					{
+						"content": "VAT",
+						"polygon": [
+							913,
+							213,
+							933,
+							212,
+							933,
+							225,
+							913,
+							225
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 569,
+							"length": 3
+						}
+					},
+					{
+						"content": "no.",
+						"polygon": [
+							935,
+							212,
+							952,
+							212,
+							952,
+							224,
+							936,
+							225
+						],
+						"confidence": 0.969,
+						"span": {
+							"offset": 573,
+							"length": 3
+						}
+					},
+					{
+						"content": "GB",
+						"polygon": [
+							954,
+							212,
+							970,
+							211,
+							970,
+							224,
+							955,
+							224
+						],
+						"confidence": 0.968,
+						"span": {
+							"offset": 577,
+							"length": 2
+						}
+					},
+					{
+						"content": "209",
+						"polygon": [
+							973,
+							211,
+							992,
+							211,
+							992,
+							224,
+							973,
+							224
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 580,
+							"length": 3
+						}
+					},
+					{
+						"content": "5687",
+						"polygon": [
+							994,
+							211,
+							1021,
+							210,
+							1021,
+							223,
+							995,
+							224
+						],
+						"confidence": 0.98,
+						"span": {
+							"offset": 584,
+							"length": 4
+						}
+					},
+					{
+						"content": "37",
+						"polygon": [
+							1023,
+							210,
+							1037,
+							210,
+							1038,
+							223,
+							1024,
+							223
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 589,
+							"length": 2
+						}
+					},
+					{
+						"content": "Service",
+						"polygon": [
+							720,
+							272,
+							781,
+							270,
+							780,
+							294,
+							718,
+							296
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 592,
+							"length": 7
+						}
+					},
+					{
+						"content": "Centre",
+						"polygon": [
+							786,
+							270,
+							847,
+							268,
+							846,
+							292,
+							785,
+							294
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 600,
+							"length": 6
+						}
+					},
+					{
+						"content": "447",
+						"polygon": [
+							852,
+							268,
+							889,
+							267,
+							889,
+							292,
+							851,
+							292
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 607,
+							"length": 3
+						}
+					},
+					{
+						"content": "SERVICE",
+						"polygon": [
+							589,
+							304,
+							639,
+							304,
+							639,
+							319,
+							589,
+							319
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 611,
+							"length": 7
+						}
+					},
+					{
+						"content": "CENTRE:",
+						"polygon": [
+							642,
+							304,
+							699,
+							304,
+							699,
+							319,
+							642,
+							319
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 619,
+							"length": 7
+						}
+					},
+					{
+						"content": "447",
+						"polygon": [
+							704,
+							304,
+							730,
+							303,
+							729,
+							319,
+							704,
+							319
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 627,
+							"length": 3
+						}
+					},
+					{
+						"content": "ADDRESS:",
+						"polygon": [
+							635,
+							321,
+							699,
+							320,
+							699,
+							335,
+							635,
+							335
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 631,
+							"length": 8
+						}
+					},
+					{
+						"content": "Edinburgh",
+						"polygon": [
+							703,
+							320,
+							766,
+							318,
+							766,
+							334,
+							704,
+							335
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 640,
+							"length": 9
+						}
+					},
+					{
+						"content": "-",
+						"polygon": [
+							769,
+							318,
+							775,
+							318,
+							776,
+							334,
+							770,
+							334
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 650,
+							"length": 1
+						}
+					},
+					{
+						"content": "Utils.",
+						"polygon": [
+							778,
+							318,
+							810,
+							317,
+							811,
+							333,
+							779,
+							334
+						],
+						"confidence": 0.98,
+						"span": {
+							"offset": 652,
+							"length": 6
+						}
+					},
+					{
+						"content": "(447)",
+						"polygon": [
+							813,
+							317,
+							849,
+							317,
+							849,
+							331,
+							814,
+							333
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 659,
+							"length": 5
+						}
+					},
+					{
+						"content": "BLOCK",
+						"polygon": [
+							705,
+							336,
+							748,
+							335,
+							749,
+							351,
+							705,
+							352
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 665,
+							"length": 5
+						}
+					},
+					{
+						"content": "3,",
+						"polygon": [
+							751,
+							335,
+							765,
+							335,
+							765,
+							350,
+							752,
+							350
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 671,
+							"length": 2
+						}
+					},
+					{
+						"content": "FACTORY",
+						"polygon": [
+							768,
+							334,
+							830,
+							333,
+							830,
+							349,
+							768,
+							350
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 674,
+							"length": 7
+						}
+					},
+					{
+						"content": "ROAD,",
+						"polygon": [
+							833,
+							333,
+							878,
+							331,
+							879,
+							347,
+							834,
+							348
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 682,
+							"length": 5
+						}
+					},
+					{
+						"content": "WHITESIDE",
+						"polygon": [
+							882,
+							331,
+							954,
+							329,
+							955,
+							345,
+							882,
+							347
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 688,
+							"length": 9
+						}
+					},
+					{
+						"content": "INDUSTRIAL",
+						"polygon": [
+							957,
+							329,
+							1038,
+							328,
+							1038,
+							343,
+							958,
+							345
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 698,
+							"length": 10
+						}
+					},
+					{
+						"content": "ESTATE,",
+						"polygon": [
+							706,
+							353,
+							753,
+							352,
+							753,
+							367,
+							706,
+							368
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 709,
+							"length": 7
+						}
+					},
+					{
+						"content": "BATHGATE,",
+						"polygon": [
+							756,
+							352,
+							829,
+							349,
+							829,
+							365,
+							756,
+							367
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 717,
+							"length": 9
+						}
+					},
+					{
+						"content": "WEST",
+						"polygon": [
+							832,
+							349,
+							868,
+							348,
+							868,
+							364,
+							832,
+							365
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 727,
+							"length": 4
+						}
+					},
+					{
+						"content": "LOTHIAN",
+						"polygon": [
+							871,
+							348,
+							931,
+							347,
+							931,
+							362,
+							871,
+							364
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 732,
+							"length": 7
+						}
+					},
+					{
+						"content": "POSTCODE:",
+						"polygon": [
+							622,
+							387,
+							701,
+							385,
+							700,
+							401,
+							622,
+							402
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 740,
+							"length": 9
+						}
+					},
+					{
+						"content": "EH48",
+						"polygon": [
+							704,
+							385,
+							739,
+							384,
+							738,
+							400,
+							704,
+							401
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 750,
+							"length": 4
+						}
+					},
+					{
+						"content": "2RX,",
+						"polygon": [
+							742,
+							384,
+							771,
+							383,
+							771,
+							399,
+							742,
+							400
+						],
+						"confidence": 0.98,
+						"span": {
+							"offset": 755,
+							"length": 4
+						}
+					},
+					{
+						"content": "01506",
+						"polygon": [
+							774,
+							383,
+							815,
+							382,
+							815,
+							398,
+							774,
+							399
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 760,
+							"length": 5
+						}
+					},
+					{
+						"content": "656938",
+						"polygon": [
+							818,
+							382,
+							866,
+							381,
+							866,
+							396,
+							818,
+							398
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 766,
+							"length": 6
+						}
+					},
+					{
+						"content": "SERVED",
+						"polygon": [
+							625,
+							419,
+							670,
+							419,
+							670,
+							434,
+							625,
+							434
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 773,
+							"length": 6
+						}
+					},
+					{
+						"content": "BY:",
+						"polygon": [
+							675,
+							418,
+							701,
+							418,
+							700,
+							433,
+							675,
+							433
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 780,
+							"length": 3
+						}
+					},
+					{
+						"content": "ANNE",
+						"polygon": [
+							706,
+							418,
+							743,
+							417,
+							743,
+							432,
+							706,
+							433
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 784,
+							"length": 4
+						}
+					},
+					{
+						"content": "LINDSAY",
+						"polygon": [
+							746,
+							417,
+							803,
+							416,
+							803,
+							431,
+							746,
+							432
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 789,
+							"length": 7
+						}
+					},
+					{
+						"content": "TELEPHONE:",
+						"polygon": [
+							621,
+							436,
+							700,
+							435,
+							700,
+							449,
+							621,
+							451
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 797,
+							"length": 10
+						}
+					},
+					{
+						"content": "01506",
+						"polygon": [
+							705,
+							435,
+							746,
+							434,
+							746,
+							449,
+							705,
+							449
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 808,
+							"length": 5
+						}
+					},
+					{
+						"content": "656938",
+						"polygon": [
+							749,
+							434,
+							797,
+							433,
+							797,
+							448,
+							749,
+							449
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 814,
+							"length": 6
+						}
+					},
+					{
+						"content": "ORDER",
+						"polygon": [
+							626,
+							498,
+							670,
+							498,
+							670,
+							512,
+							626,
+							514
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 821,
+							"length": 5
+						}
+					},
+					{
+						"content": "NO:",
+						"polygon": [
+							674,
+							498,
+							702,
+							497,
+							702,
+							511,
+							674,
+							512
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 827,
+							"length": 3
+						}
+					},
+					{
+						"content": "5245001489",
+						"polygon": [
+							705,
+							497,
+							785,
+							495,
+							785,
+							510,
+							705,
+							511
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 831,
+							"length": 10
+						}
+					},
+					{
+						"content": "Code",
+						"polygon": [
+							106,
+							545,
+							138,
+							545,
+							138,
+							557,
+							106,
+							557
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 842,
+							"length": 4
+						}
+					},
+					{
+						"content": "Description",
+						"polygon": [
+							236,
+							543,
+							305,
+							543,
+							305,
+							558,
+							235,
+							558
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 847,
+							"length": 11
+						}
+					},
+					{
+						"content": "From",
+						"polygon": [
+							734,
+							535,
+							759,
+							535,
+							759,
+							548,
+							734,
+							548
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 859,
+							"length": 4
+						}
+					},
+					{
+						"content": "To",
+						"polygon": [
+							843,
+							533,
+							857,
+							533,
+							856,
+							545,
+							842,
+							544
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 864,
+							"length": 2
+						}
+					},
+					{
+						"content": "Qty",
+						"polygon": [
+							946,
+							530,
+							968,
+							530,
+							968,
+							544,
+							945,
+							543
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 867,
+							"length": 3
+						}
+					},
+					{
+						"content": "Per",
+						"polygon": [
+							1001,
+							529,
+							1023,
+							529,
+							1023,
+							541,
+							1001,
+							541
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 871,
+							"length": 3
+						}
+					},
+					{
+						"content": "A1085653",
+						"polygon": [
+							101,
+							566,
+							166,
+							565,
+							166,
+							579,
+							100,
+							579
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 875,
+							"length": 8
+						}
+					},
+					{
+						"content": "40V",
+						"polygon": [
+							232,
+							564,
+							255,
+							564,
+							255,
+							579,
+							231,
+							579
+						],
+						"confidence": 0.846,
+						"span": {
+							"offset": 884,
+							"length": 3
+						}
+					},
+					{
+						"content": "ELECTRO-FUSION",
+						"polygon": [
+							259,
+							564,
+							373,
+							563,
+							373,
+							578,
+							259,
+							579
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 888,
+							"length": 14
+						}
+					},
+					{
+						"content": "BOX",
+						"polygon": [
+							379,
+							563,
+							407,
+							562,
+							407,
+							577,
+							378,
+							578
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 903,
+							"length": 3
+						}
+					},
+					{
+						"content": "16-JUN-22",
+						"polygon": [
+							731,
+							557,
+							799,
+							555,
+							799,
+							569,
+							732,
+							571
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 907,
+							"length": 9
+						}
+					},
+					{
+						"content": "1",
+						"polygon": [
+							944,
+							551,
+							950,
+							551,
+							950,
+							565,
+							944,
+							565
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 917,
+							"length": 1
+						}
+					},
+					{
+						"content": "WK",
+						"polygon": [
+							998,
+							550,
+							1021,
+							550,
+							1021,
+							563,
+							998,
+							562
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 919,
+							"length": 2
+						}
+					},
+					{
+						"content": "288350",
+						"polygon": [
+							100,
+							588,
+							148,
+							589,
+							148,
+							602,
+							100,
+							601
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 922,
+							"length": 6
+						}
+					},
+					{
+						"content": "40V",
+						"polygon": [
+							232,
+							586,
+							255,
+							586,
+							255,
+							601,
+							232,
+							601
+						],
+						"confidence": 0.955,
+						"span": {
+							"offset": 929,
+							"length": 3
+						}
+					},
+					{
+						"content": "ELECTROFUSION",
+						"polygon": [
+							259,
+							586,
+							368,
+							586,
+							368,
+							600,
+							259,
+							601
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 933,
+							"length": 13
+						}
+					},
+					{
+						"content": "LEAD",
+						"polygon": [
+							373,
+							586,
+							406,
+							585,
+							406,
+							600,
+							373,
+							600
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 947,
+							"length": 4
+						}
+					},
+					{
+						"content": "16-JUN-22",
+						"polygon": [
+							733,
+							580,
+							799,
+							578,
+							799,
+							593,
+							733,
+							594
+						],
+						"confidence": 0.982,
+						"span": {
+							"offset": 952,
+							"length": 9
+						}
+					},
+					{
+						"content": "1",
+						"polygon": [
+							945,
+							575,
+							952,
+							575,
+							952,
+							587,
+							945,
+							587
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 962,
+							"length": 1
+						}
+					},
+					{
+						"content": "WK",
+						"polygon": [
+							999,
+							573,
+							1021,
+							573,
+							1021,
+							586,
+							999,
+							586
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 964,
+							"length": 2
+						}
+					},
+					{
+						"content": "A1081675",
+						"polygon": [
+							99,
+							611,
+							166,
+							611,
+							165,
+							625,
+							99,
+							625
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 967,
+							"length": 8
+						}
+					},
+					{
+						"content": "TIN",
+						"polygon": [
+							231,
+							609,
+							250,
+							609,
+							251,
+							624,
+							231,
+							625
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 976,
+							"length": 3
+						}
+					},
+					{
+						"content": "12",
+						"polygon": [
+							257,
+							609,
+							272,
+							609,
+							272,
+							624,
+							257,
+							624
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 980,
+							"length": 2
+						}
+					},
+					{
+						"content": "7.5KVA",
+						"polygon": [
+							276,
+							609,
+							323,
+							609,
+							323,
+							623,
+							276,
+							624
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 983,
+							"length": 6
+						}
+					},
+					{
+						"content": "P.GENERATOR",
+						"polygon": [
+							328,
+							609,
+							418,
+							608,
+							418,
+							623,
+							327,
+							623
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 990,
+							"length": 11
+						}
+					},
+					{
+						"content": "16-JUN-22",
+						"polygon": [
+							731,
+							603,
+							799,
+							601,
+							799,
+							615,
+							732,
+							617
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1002,
+							"length": 9
+						}
+					},
+					{
+						"content": "4",
+						"polygon": [
+							887,
+							603,
+							892,
+							603,
+							892,
+							612,
+							887,
+							612
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1012,
+							"length": 1
+						}
+					},
+					{
+						"content": "1",
+						"polygon": [
+							944,
+							598,
+							950,
+							597,
+							952,
+							611,
+							946,
+							612
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1014,
+							"length": 1
+						}
+					},
+					{
+						"content": "WK",
+						"polygon": [
+							1000,
+							596,
+							1022,
+							596,
+							1022,
+							608,
+							1000,
+							608
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1016,
+							"length": 2
+						}
+					},
+					{
+						"content": "A709080",
+						"polygon": [
+							99,
+							635,
+							158,
+							634,
+							158,
+							648,
+							99,
+							648
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1019,
+							"length": 7
+						}
+					},
+					{
+						"content": "180mm",
+						"polygon": [
+							232,
+							633,
+							274,
+							632,
+							274,
+							647,
+							232,
+							648
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1027,
+							"length": 5
+						}
+					},
+					{
+						"content": "ALIGNMENT",
+						"polygon": [
+							281,
+							632,
+							364,
+							631,
+							364,
+							646,
+							281,
+							647
+						],
+						"confidence": 0.968,
+						"span": {
+							"offset": 1033,
+							"length": 9
+						}
+					},
+					{
+						"content": "CLAMP",
+						"polygon": [
+							367,
+							631,
+							415,
+							631,
+							415,
+							646,
+							367,
+							646
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1043,
+							"length": 5
+						}
+					},
+					{
+						"content": "16-JUN-22",
+						"polygon": [
+							734,
+							625,
+							800,
+							624,
+							800,
+							639,
+							734,
+							640
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 1049,
+							"length": 9
+						}
+					},
+					{
+						"content": "1",
+						"polygon": [
+							946,
+							622,
+							952,
+							622,
+							953,
+							634,
+							947,
+							635
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1059,
+							"length": 1
+						}
+					},
+					{
+						"content": "WK",
+						"polygon": [
+							1001,
+							619,
+							1023,
+							619,
+							1023,
+							632,
+							1000,
+							631
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1061,
+							"length": 2
+						}
+					},
+					{
+						"content": "A700605",
+						"polygon": [
+							100,
+							657,
+							158,
+							657,
+							157,
+							672,
+							100,
+							672
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1064,
+							"length": 7
+						}
+					},
+					{
+						"content": "SHELTER",
+						"polygon": [
+							230,
+							655,
+							283,
+							655,
+							283,
+							670,
+							230,
+							671
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1072,
+							"length": 7
+						}
+					},
+					{
+						"content": "M:",
+						"polygon": [
+							287,
+							655,
+							307,
+							655,
+							307,
+							670,
+							287,
+							670
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1080,
+							"length": 2
+						}
+					},
+					{
+						"content": "2.5",
+						"polygon": [
+							310,
+							655,
+							330,
+							655,
+							330,
+							670,
+							310,
+							670
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1083,
+							"length": 3
+						}
+					},
+					{
+						"content": "x",
+						"polygon": [
+							334,
+							655,
+							342,
+							655,
+							342,
+							670,
+							334,
+							670
+						],
+						"confidence": 0.347,
+						"span": {
+							"offset": 1087,
+							"length": 1
+						}
+					},
+					{
+						"content": "2.5x2m",
+						"polygon": [
+							346,
+							655,
+							398,
+							655,
+							397,
+							670,
+							345,
+							670
+						],
+						"confidence": 0.646,
+						"span": {
+							"offset": 1089,
+							"length": 6
+						}
+					},
+					{
+						"content": "16-JUN-22",
+						"polygon": [
+							734,
+							648,
+							801,
+							648,
+							801,
+							662,
+							733,
+							663
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 1096,
+							"length": 9
+						}
+					},
+					{
+						"content": "1",
+						"polygon": [
+							946,
+							645,
+							953,
+							645,
+							953,
+							657,
+							946,
+							657
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1106,
+							"length": 1
+						}
+					},
+					{
+						"content": "WK",
+						"polygon": [
+							1001,
+							642,
+							1023,
+							642,
+							1023,
+							655,
+							1001,
+							654
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1108,
+							"length": 2
+						}
+					},
+					{
+						"content": "A1237039",
+						"polygon": [
+							99,
+							681,
+							165,
+							680,
+							165,
+							695,
+							99,
+							695
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 1111,
+							"length": 8
+						}
+					},
+					{
+						"content": "Mech.Pipe",
+						"polygon": [
+							230,
+							678,
+							296,
+							678,
+							296,
+							694,
+							230,
+							694
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1120,
+							"length": 9
+						}
+					},
+					{
+						"content": "Scraper",
+						"polygon": [
+							299,
+							678,
+							345,
+							678,
+							345,
+							694,
+							299,
+							694
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1130,
+							"length": 7
+						}
+					},
+					{
+						"content": "63-250",
+						"polygon": [
+							349,
+							678,
+							396,
+							677,
+							396,
+							692,
+							348,
+							694
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1138,
+							"length": 6
+						}
+					},
+					{
+						"content": "16-JUN-22",
+						"polygon": [
+							734,
+							671,
+							801,
+							670,
+							801,
+							685,
+							733,
+							686
+						],
+						"confidence": 0.969,
+						"span": {
+							"offset": 1145,
+							"length": 9
+						}
+					},
+					{
+						"content": "1",
+						"polygon": [
+							946,
+							667,
+							954,
+							667,
+							954,
+							680,
+							946,
+							680
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1155,
+							"length": 1
+						}
+					},
+					{
+						"content": "WK",
+						"polygon": [
+							1002,
+							665,
+							1025,
+							665,
+							1025,
+							678,
+							1001,
+							677
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1157,
+							"length": 2
+						}
+					},
+					{
+						"content": "PSSDEL1",
+						"polygon": [
+							99,
+							704,
+							154,
+							704,
+							154,
+							717,
+							99,
+							718
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1160,
+							"length": 7
+						}
+					},
+					{
+						"content": "DELIVERY",
+						"polygon": [
+							230,
+							702,
+							292,
+							701,
+							292,
+							716,
+							230,
+							717
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1168,
+							"length": 8
+						}
+					},
+					{
+						"content": "CHARGE",
+						"polygon": [
+							296,
+							701,
+							353,
+							701,
+							353,
+							715,
+							296,
+							716
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1177,
+							"length": 6
+						}
+					},
+					{
+						"content": "1",
+						"polygon": [
+							947,
+							690,
+							955,
+							690,
+							955,
+							703,
+							947,
+							703
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 1184,
+							"length": 1
+						}
+					},
+					{
+						"content": "SLE",
+						"polygon": [
+							1004,
+							689,
+							1025,
+							689,
+							1025,
+							702,
+							1004,
+							702
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1186,
+							"length": 3
+						}
+					},
+					{
+						"content": "PSSCOL1",
+						"polygon": [
+							98,
+							728,
+							158,
+							727,
+							158,
+							741,
+							98,
+							742
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1190,
+							"length": 7
+						}
+					},
+					{
+						"content": "COLLECTION",
+						"polygon": [
+							230,
+							725,
+							315,
+							724,
+							315,
+							739,
+							230,
+							740
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 1198,
+							"length": 10
+						}
+					},
+					{
+						"content": "CHARGE",
+						"polygon": [
+							321,
+							724,
+							379,
+							723,
+							379,
+							739,
+							321,
+							739
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1209,
+							"length": 6
+						}
+					},
+					{
+						"content": "1",
+						"polygon": [
+							948,
+							714,
+							955,
+							714,
+							955,
+							726,
+							948,
+							726
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1216,
+							"length": 1
+						}
+					},
+					{
+						"content": "SLE",
+						"polygon": [
+							1004,
+							712,
+							1026,
+							712,
+							1026,
+							725,
+							1004,
+							725
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1218,
+							"length": 3
+						}
+					},
+					{
+						"content": "NOTE:",
+						"polygon": [
+							229,
+							749,
+							272,
+							748,
+							272,
+							764,
+							229,
+							764
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1222,
+							"length": 5
+						}
+					},
+					{
+						"content": "YOU",
+						"polygon": [
+							275,
+							748,
+							305,
+							747,
+							305,
+							763,
+							275,
+							764
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 1228,
+							"length": 3
+						}
+					},
+					{
+						"content": "ARE",
+						"polygon": [
+							310,
+							747,
+							337,
+							747,
+							337,
+							763,
+							310,
+							763
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1232,
+							"length": 3
+						}
+					},
+					{
+						"content": "NOT",
+						"polygon": [
+							340,
+							746,
+							371,
+							746,
+							372,
+							762,
+							340,
+							763
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1236,
+							"length": 3
+						}
+					},
+					{
+						"content": "COVEREDBY",
+						"polygon": [
+							374,
+							746,
+							457,
+							745,
+							457,
+							761,
+							375,
+							762
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1240,
+							"length": 9
+						}
+					},
+					{
+						"content": "SU",
+						"polygon": [
+							460,
+							745,
+							476,
+							745,
+							476,
+							761,
+							460,
+							761
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1250,
+							"length": 2
+						}
+					},
+					{
+						"content": "NBELT",
+						"polygon": [
+							480,
+							745,
+							520,
+							744,
+							520,
+							760,
+							480,
+							761
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 1253,
+							"length": 5
+						}
+					},
+					{
+						"content": "RENTALS",
+						"polygon": [
+							523,
+							744,
+							580,
+							744,
+							580,
+							759,
+							523,
+							760
+						],
+						"confidence": 0.926,
+						"span": {
+							"offset": 1259,
+							"length": 7
+						}
+					},
+					{
+						"content": "INSURANCE",
+						"polygon": [
+							583,
+							744,
+							661,
+							743,
+							661,
+							757,
+							583,
+							759
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1267,
+							"length": 9
+						}
+					},
+					{
+						"content": "63MM",
+						"polygon": [
+							231,
+							773,
+							267,
+							772,
+							267,
+							787,
+							232,
+							787
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1277,
+							"length": 4
+						}
+					},
+					{
+						"content": "PIPE",
+						"polygon": [
+							276,
+							772,
+							305,
+							772,
+							306,
+							786,
+							277,
+							786
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 1282,
+							"length": 4
+						}
+					},
+					{
+						"content": "Booking",
+						"polygon": [
+							231,
+							796,
+							281,
+							795,
+							281,
+							811,
+							231,
+							812
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1287,
+							"length": 7
+						}
+					},
+					{
+						"content": "Reference",
+						"polygon": [
+							284,
+							795,
+							347,
+							794,
+							347,
+							809,
+							284,
+							811
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1295,
+							"length": 9
+						}
+					},
+					{
+						"content": "4691258",
+						"polygon": [
+							350,
+							794,
+							408,
+							792,
+							407,
+							808,
+							350,
+							809
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1305,
+							"length": 7
+						}
+					},
+					{
+						"content": "CUSTOMEYECORK",
+						"polygon": [
+							330,
+							968,
+							690,
+							596,
+							726,
+							634,
+							365,
+							1003
+						],
+						"confidence": 0.349,
+						"span": {
+							"offset": 1313,
+							"length": 13
+						}
+					},
+					{
+						"content": "INSURANCE",
+						"polygon": [
+							108,
+							1421,
+							187,
+							1418,
+							188,
+							1434,
+							108,
+							1436
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 1327,
+							"length": 9
+						}
+					},
+					{
+						"content": "IS",
+						"polygon": [
+							190,
+							1418,
+							203,
+							1418,
+							204,
+							1433,
+							191,
+							1434
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1337,
+							"length": 2
+						}
+					},
+					{
+						"content": "THE",
+						"polygon": [
+							207,
+							1417,
+							234,
+							1416,
+							234,
+							1432,
+							207,
+							1433
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1340,
+							"length": 3
+						}
+					},
+					{
+						"content": "CUSTOMERS",
+						"polygon": [
+							237,
+							1416,
+							321,
+							1414,
+							321,
+							1430,
+							237,
+							1432
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1344,
+							"length": 9
+						}
+					},
+					{
+						"content": "RESPONSIBILITY.",
+						"polygon": [
+							324,
+							1414,
+							432,
+							1411,
+							432,
+							1427,
+							325,
+							1430
+						],
+						"confidence": 0.969,
+						"span": {
+							"offset": 1354,
+							"length": 15
+						}
+					},
+					{
+						"content": "IF",
+						"polygon": [
+							435,
+							1410,
+							447,
+							1410,
+							448,
+							1427,
+							436,
+							1427
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1370,
+							"length": 2
+						}
+					},
+					{
+						"content": "NEEDED",
+						"polygon": [
+							450,
+							1410,
+							503,
+							1409,
+							503,
+							1426,
+							451,
+							1427
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1373,
+							"length": 6
+						}
+					},
+					{
+						"content": "CALL",
+						"polygon": [
+							509,
+							1409,
+							543,
+							1408,
+							544,
+							1425,
+							509,
+							1426
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 1380,
+							"length": 4
+						}
+					},
+					{
+						"content": "0370",
+						"polygon": [
+							547,
+							1408,
+							581,
+							1407,
+							581,
+							1424,
+							547,
+							1425
+						],
+						"confidence": 0.984,
+						"span": {
+							"offset": 1385,
+							"length": 4
+						}
+					},
+					{
+						"content": "050",
+						"polygon": [
+							584,
+							1407,
+							609,
+							1407,
+							609,
+							1424,
+							585,
+							1424
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1390,
+							"length": 3
+						}
+					},
+					{
+						"content": "0797",
+						"polygon": [
+							612,
+							1407,
+							647,
+							1406,
+							647,
+							1423,
+							613,
+							1424
+						],
+						"confidence": 0.982,
+						"span": {
+							"offset": 1394,
+							"length": 4
+						}
+					},
+					{
+						"content": "AND",
+						"polygon": [
+							650,
+							1406,
+							680,
+							1406,
+							680,
+							1423,
+							650,
+							1423
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1399,
+							"length": 3
+						}
+					},
+					{
+						"content": "ASK",
+						"polygon": [
+							686,
+							1405,
+							713,
+							1405,
+							713,
+							1422,
+							686,
+							1422
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1403,
+							"length": 3
+						}
+					},
+					{
+						"content": "ABOUT",
+						"polygon": [
+							716,
+							1405,
+							766,
+							1404,
+							766,
+							1421,
+							716,
+							1422
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1407,
+							"length": 5
+						}
+					},
+					{
+						"content": "SUNBELT",
+						"polygon": [
+							769,
+							1404,
+							828,
+							1404,
+							829,
+							1421,
+							769,
+							1421
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1413,
+							"length": 7
+						}
+					},
+					{
+						"content": "RENTALS",
+						"polygon": [
+							832,
+							1404,
+							892,
+							1403,
+							892,
+							1420,
+							832,
+							1420
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1421,
+							"length": 7
+						}
+					},
+					{
+						"content": "INSURANCE.",
+						"polygon": [
+							895,
+							1403,
+							980,
+							1403,
+							980,
+							1419,
+							896,
+							1420
+						],
+						"confidence": 0.94,
+						"span": {
+							"offset": 1429,
+							"length": 10
+						}
+					},
+					{
+						"content": "+",
+						"polygon": [
+							92,
+							1443,
+							101,
+							1443,
+							101,
+							1459,
+							92,
+							1459
+						],
+						"confidence": 0.464,
+						"span": {
+							"offset": 1440,
+							"length": 1
+						}
+					},
+					{
+						"content": "A",
+						"polygon": [
+							107,
+							1443,
+							117,
+							1443,
+							116,
+							1458,
+							107,
+							1458
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1442,
+							"length": 1
+						}
+					},
+					{
+						"content": "VAST",
+						"polygon": [
+							120,
+							1442,
+							156,
+							1441,
+							155,
+							1457,
+							120,
+							1458
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 1444,
+							"length": 4
+						}
+					},
+					{
+						"content": "RANGE",
+						"polygon": [
+							159,
+							1441,
+							209,
+							1439,
+							208,
+							1455,
+							158,
+							1457
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1449,
+							"length": 5
+						}
+					},
+					{
+						"content": "OF",
+						"polygon": [
+							212,
+							1439,
+							232,
+							1438,
+							232,
+							1454,
+							211,
+							1455
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1455,
+							"length": 2
+						}
+					},
+					{
+						"content": "TRAINING",
+						"polygon": [
+							235,
+							1438,
+							301,
+							1436,
+							301,
+							1452,
+							235,
+							1454
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1458,
+							"length": 8
+						}
+					},
+					{
+						"content": "COURSES",
+						"polygon": [
+							305,
+							1436,
+							368,
+							1434,
+							368,
+							1450,
+							304,
+							1452
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1467,
+							"length": 7
+						}
+					},
+					{
+						"content": "ARE",
+						"polygon": [
+							371,
+							1434,
+							397,
+							1433,
+							397,
+							1450,
+							371,
+							1450
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1475,
+							"length": 3
+						}
+					},
+					{
+						"content": "AVAILABLE.",
+						"polygon": [
+							401,
+							1433,
+							476,
+							1431,
+							476,
+							1448,
+							400,
+							1450
+						],
+						"confidence": 0.963,
+						"span": {
+							"offset": 1479,
+							"length": 10
+						}
+					},
+					{
+						"content": "FOR",
+						"polygon": [
+							479,
+							1431,
+							508,
+							1430,
+							508,
+							1447,
+							479,
+							1448
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1490,
+							"length": 3
+						}
+					},
+					{
+						"content": "MORE",
+						"polygon": [
+							512,
+							1430,
+							555,
+							1429,
+							555,
+							1446,
+							512,
+							1447
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 1494,
+							"length": 4
+						}
+					},
+					{
+						"content": "INFORMATION",
+						"polygon": [
+							558,
+							1429,
+							659,
+							1427,
+							659,
+							1444,
+							558,
+							1446
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1499,
+							"length": 11
+						}
+					},
+					{
+						"content": "CALL",
+						"polygon": [
+							665,
+							1427,
+							700,
+							1426,
+							700,
+							1443,
+							665,
+							1444
+						],
+						"confidence": 0.985,
+						"span": {
+							"offset": 1511,
+							"length": 4
+						}
+					},
+					{
+						"content": "SUNBELT",
+						"polygon": [
+							703,
+							1426,
+							762,
+							1425,
+							762,
+							1442,
+							703,
+							1443
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1516,
+							"length": 7
+						}
+					},
+					{
+						"content": "RENTALS",
+						"polygon": [
+							765,
+							1425,
+							826,
+							1424,
+							826,
+							1441,
+							765,
+							1442
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1524,
+							"length": 7
+						}
+					},
+					{
+						"content": "CUSTOMER",
+						"polygon": [
+							829,
+							1424,
+							909,
+							1423,
+							909,
+							1440,
+							829,
+							1441
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1532,
+							"length": 8
+						}
+					},
+					{
+						"content": "TRAINING",
+						"polygon": [
+							913,
+							1423,
+							980,
+							1423,
+							980,
+							1439,
+							913,
+							1440
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1541,
+							"length": 8
+						}
+					},
+					{
+						"content": "SOLUTIONS",
+						"polygon": [
+							983,
+							1423,
+							1065,
+							1422,
+							1065,
+							1439,
+							984,
+							1439
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1550,
+							"length": 9
+						}
+					},
+					{
+						"content": "ON",
+						"polygon": [
+							89,
+							1465,
+							109,
+							1464,
+							110,
+							1479,
+							89,
+							1480
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1560,
+							"length": 2
+						}
+					},
+					{
+						"content": "0115",
+						"polygon": [
+							115,
+							1463,
+							150,
+							1461,
+							151,
+							1477,
+							115,
+							1479
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 1563,
+							"length": 4
+						}
+					},
+					{
+						"content": "924",
+						"polygon": [
+							154,
+							1461,
+							181,
+							1459,
+							181,
+							1476,
+							154,
+							1477
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1568,
+							"length": 3
+						}
+					},
+					{
+						"content": "1349",
+						"polygon": [
+							186,
+							1459,
+							220,
+							1457,
+							221,
+							1474,
+							186,
+							1475
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 1572,
+							"length": 4
+						}
+					},
+					{
+						"content": "OR",
+						"polygon": [
+							224,
+							1457,
+							246,
+							1456,
+							246,
+							1473,
+							224,
+							1474
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1577,
+							"length": 2
+						}
+					},
+					{
+						"content": "PLEASE",
+						"polygon": [
+							249,
+							1456,
+							299,
+							1454,
+							299,
+							1471,
+							249,
+							1473
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1580,
+							"length": 6
+						}
+					},
+					{
+						"content": "VISIT",
+						"polygon": [
+							302,
+							1454,
+							337,
+							1452,
+							337,
+							1470,
+							302,
+							1471
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1587,
+							"length": 5
+						}
+					},
+					{
+						"content": "OUR",
+						"polygon": [
+							340,
+							1452,
+							373,
+							1451,
+							373,
+							1468,
+							340,
+							1469
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1593,
+							"length": 3
+						}
+					},
+					{
+						"content": "WEBSITE",
+						"polygon": [
+							376,
+							1451,
+							434,
+							1450,
+							434,
+							1467,
+							376,
+							1468
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1597,
+							"length": 7
+						}
+					},
+					{
+						"content": "AT",
+						"polygon": [
+							437,
+							1450,
+							455,
+							1450,
+							455,
+							1466,
+							437,
+							1467
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1605,
+							"length": 2
+						}
+					},
+					{
+						"content": "www.sunbeltrentals.co.uk",
+						"polygon": [
+							458,
+							1450,
+							624,
+							1449,
+							624,
+							1464,
+							458,
+							1466
+						],
+						"confidence": 0.98,
+						"span": {
+							"offset": 1608,
+							"length": 24
+						}
+					},
+					{
+						"content": "TERMS",
+						"polygon": [
+							105,
+							1484,
+							151,
+							1482,
+							151,
+							1499,
+							106,
+							1501
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1633,
+							"length": 5
+						}
+					},
+					{
+						"content": "AND",
+						"polygon": [
+							154,
+							1482,
+							185,
+							1480,
+							185,
+							1497,
+							155,
+							1499
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1639,
+							"length": 3
+						}
+					},
+					{
+						"content": "CONDITIONS",
+						"polygon": [
+							190,
+							1480,
+							281,
+							1476,
+							281,
+							1494,
+							191,
+							1497
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 1643,
+							"length": 10
+						}
+					},
+					{
+						"content": "OF",
+						"polygon": [
+							284,
+							1476,
+							304,
+							1475,
+							304,
+							1493,
+							285,
+							1493
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1654,
+							"length": 2
+						}
+					},
+					{
+						"content": "HIRE",
+						"polygon": [
+							307,
+							1475,
+							339,
+							1474,
+							339,
+							1491,
+							308,
+							1493
+						],
+						"confidence": 0.984,
+						"span": {
+							"offset": 1657,
+							"length": 4
+						}
+					},
+					{
+						"content": "ARE",
+						"polygon": [
+							342,
+							1474,
+							369,
+							1473,
+							369,
+							1490,
+							343,
+							1491
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1662,
+							"length": 3
+						}
+					},
+					{
+						"content": "AVAILABLE",
+						"polygon": [
+							372,
+							1473,
+							444,
+							1471,
+							444,
+							1488,
+							372,
+							1490
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 1666,
+							"length": 9
+						}
+					},
+					{
+						"content": "FROM",
+						"polygon": [
+							447,
+							1471,
+							484,
+							1470,
+							485,
+							1487,
+							448,
+							1488
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 1676,
+							"length": 4
+						}
+					},
+					{
+						"content": "YOUR",
+						"polygon": [
+							493,
+							1470,
+							532,
+							1469,
+							533,
+							1486,
+							494,
+							1487
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 1681,
+							"length": 4
+						}
+					},
+					{
+						"content": "DRIVER",
+						"polygon": [
+							536,
+							1469,
+							585,
+							1468,
+							585,
+							1485,
+							536,
+							1486
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1686,
+							"length": 6
+						}
+					},
+					{
+						"content": "OR",
+						"polygon": [
+							590,
+							1468,
+							610,
+							1467,
+							610,
+							1484,
+							590,
+							1485
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 1693,
+							"length": 2
+						}
+					},
+					{
+						"content": "ON",
+						"polygon": [
+							614,
+							1467,
+							635,
+							1467,
+							635,
+							1484,
+							614,
+							1484
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1696,
+							"length": 2
+						}
+					},
+					{
+						"content": "OUR",
+						"polygon": [
+							641,
+							1467,
+							672,
+							1466,
+							673,
+							1483,
+							641,
+							1484
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1699,
+							"length": 3
+						}
+					},
+					{
+						"content": "WEBSITE",
+						"polygon": [
+							676,
+							1466,
+							733,
+							1466,
+							733,
+							1482,
+							676,
+							1483
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 1703,
+							"length": 7
+						}
+					},
+					{
+						"content": "AT",
+						"polygon": [
+							736,
+							1466,
+							754,
+							1466,
+							754,
+							1482,
+							736,
+							1482
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 1711,
+							"length": 2
+						}
+					},
+					{
+						"content": "www.sunbeltrentals.co.uk",
+						"polygon": [
+							757,
+							1466,
+							924,
+							1466,
+							924,
+							1481,
+							757,
+							1482
+						],
+						"confidence": 0.962,
+						"span": {
+							"offset": 1714,
+							"length": 24
+						}
+					}
+				],
+				"lines": [
+					{
+						"content": "SUNBELT®",
+						"polygon": [
+							120,
+							141,
+							251,
+							138,
+							251,
+							164,
+							121,
+							167
+						],
+						"spans": [
+							{
+								"offset": 0,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "RENTALS",
+						"polygon": [
+							136,
+							163,
+							231,
+							162,
+							231,
+							174,
+							136,
+							175
+						],
+						"spans": [
+							{
+								"offset": 9,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "CREDIT HIRE CONTRACT 447-010443 15-JUN-22",
+						"polygon": [
+							103,
+							205,
+							502,
+							198,
+							502,
+							217,
+							103,
+							225
+						],
+						"spans": [
+							{
+								"offset": 17,
+								"length": 41
+							}
+						]
+					},
+					{
+						"content": "Page 1 of 1",
+						"polygon": [
+							101,
+							239,
+							170,
+							236,
+							171,
+							251,
+							102,
+							254
+						],
+						"spans": [
+							{
+								"offset": 59,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "Customer 500586",
+						"polygon": [
+							244,
+							282,
+							405,
+							279,
+							406,
+							298,
+							244,
+							301
+						],
+						"spans": [
+							{
+								"offset": 71,
+								"length": 15
+							}
+						]
+					},
+					{
+						"content": "CUSTOMER: Scottish Water (GTCL)",
+						"polygon": [
+							149,
+							308,
+							366,
+							305,
+							366,
+							320,
+							149,
+							325
+						],
+						"spans": [
+							{
+								"offset": 87,
+								"length": 31
+							}
+						]
+					},
+					{
+						"content": "ADDRESS: Galliford Try, Po Box 7440, Hinckley",
+						"polygon": [
+							163,
+							324,
+							448,
+							321,
+							448,
+							338,
+							163,
+							342
+						],
+						"spans": [
+							{
+								"offset": 119,
+								"length": 45
+							}
+						]
+					},
+					{
+						"content": "POSTCODE: Leicestershire, LE10 1YL",
+						"polygon": [
+							149,
+							342,
+							379,
+							338,
+							379,
+							354,
+							149,
+							358
+						],
+						"spans": [
+							{
+								"offset": 165,
+								"length": 34
+							}
+						]
+					},
+					{
+						"content": "TELEPHONE: 01455896350",
+						"polygon": [
+							147,
+							360,
+							317,
+							358,
+							318,
+							372,
+							147,
+							375
+						],
+						"spans": [
+							{
+								"offset": 200,
+								"length": 22
+							}
+						]
+					},
+					{
+						"content": "Site",
+						"polygon": [
+							307,
+							378,
+							342,
+							378,
+							342,
+							394,
+							308,
+							394
+						],
+						"spans": [
+							{
+								"offset": 223,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "SITE ADDRESS: Millden, Balmedie Junction A90, Balmedie,",
+						"polygon": [
+							133,
+							401,
+							489,
+							397,
+							489,
+							412,
+							134,
+							417
+						],
+						"spans": [
+							{
+								"offset": 228,
+								"length": 55
+							}
+						]
+					},
+					{
+						"content": "Aberdeenshire,",
+						"polygon": [
+							231,
+							418,
+							322,
+							417,
+							322,
+							431,
+							231,
+							432
+						],
+						"spans": [
+							{
+								"offset": 284,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "Tom McClenaghan, AB23 8XS",
+						"polygon": [
+							230,
+							434,
+							414,
+							430,
+							414,
+							446,
+							230,
+							449
+						],
+						"spans": [
+							{
+								"offset": 299,
+								"length": 25
+							}
+						]
+					},
+					{
+						"content": "SITE TELEPHONE: 07526173415",
+						"polygon": [
+							116,
+							452,
+							318,
+							450,
+							318,
+							465,
+							116,
+							468
+						],
+						"spans": [
+							{
+								"offset": 325,
+								"length": 27
+							}
+						]
+					},
+					{
+						"content": "SITE REF: N/A",
+						"polygon": [
+							168,
+							470,
+							257,
+							468,
+							257,
+							481,
+							168,
+							483
+						],
+						"spans": [
+							{
+								"offset": 353,
+								"length": 13
+							}
+						]
+					},
+					{
+						"content": "HIRER NAME: COLIN RUTHERFORD",
+						"polygon": [
+							139,
+							486,
+							367,
+							483,
+							368,
+							498,
+							139,
+							501
+						],
+						"spans": [
+							{
+								"offset": 367,
+								"length": 28
+							}
+						]
+					},
+					{
+						"content": "Sunbelt Rentals Ltd",
+						"polygon": [
+							915,
+							50,
+							1031,
+							49,
+							1031,
+							63,
+							915,
+							64
+						],
+						"spans": [
+							{
+								"offset": 396,
+								"length": 19
+							}
+						]
+					},
+					{
+						"content": "102 Dalton Avenue",
+						"polygon": [
+							915,
+							66,
+							1032,
+							66,
+							1033,
+							80,
+							915,
+							80
+						],
+						"spans": [
+							{
+								"offset": 416,
+								"length": 17
+							}
+						]
+					},
+					{
+						"content": "Birchwood Park",
+						"polygon": [
+							936,
+							82,
+							1032,
+							81,
+							1032,
+							95,
+							936,
+							96
+						],
+						"spans": [
+							{
+								"offset": 434,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "Warrington",
+						"polygon": [
+							963,
+							98,
+							1033,
+							99,
+							1033,
+							112,
+							963,
+							112
+						],
+						"spans": [
+							{
+								"offset": 449,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "WA3 6YE",
+						"polygon": [
+							973,
+							114,
+							1032,
+							114,
+							1032,
+							127,
+							973,
+							127
+						],
+						"spans": [
+							{
+								"offset": 460,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "t > 01925 281000",
+						"polygon": [
+							920,
+							130,
+							1033,
+							130,
+							1033,
+							143,
+							920,
+							145
+						],
+						"spans": [
+							{
+								"offset": 468,
+								"length": 16
+							}
+						]
+					},
+					{
+						"content": "f > 01925 281001",
+						"polygon": [
+							921,
+							147,
+							1033,
+							145,
+							1033,
+							159,
+							921,
+							161
+						],
+						"spans": [
+							{
+								"offset": 485,
+								"length": 16
+							}
+						]
+					},
+					{
+						"content": "w > www.sunbeltrentals.co.uk",
+						"polygon": [
+							851,
+							166,
+							1035,
+							161,
+							1035,
+							175,
+							851,
+							179
+						],
+						"spans": [
+							{
+								"offset": 502,
+								"length": 28
+							}
+						]
+					},
+					{
+						"content": "Registered No. 444569",
+						"polygon": [
+							920,
+							181,
+							1036,
+							177,
+							1036,
+							190,
+							920,
+							194
+						],
+						"spans": [
+							{
+								"offset": 531,
+								"length": 21
+							}
+						]
+					},
+					{
+						"content": "England & Wales",
+						"polygon": [
+							950,
+							196,
+							1037,
+							194,
+							1037,
+							206,
+							950,
+							209
+						],
+						"spans": [
+							{
+								"offset": 553,
+								"length": 15
+							}
+						]
+					},
+					{
+						"content": "VAT no. GB 209 5687 37",
+						"polygon": [
+							912,
+							212,
+							1037,
+							209,
+							1037,
+							222,
+							913,
+							225
+						],
+						"spans": [
+							{
+								"offset": 569,
+								"length": 22
+							}
+						]
+					},
+					{
+						"content": "Service Centre 447",
+						"polygon": [
+							718,
+							272,
+							889,
+							267,
+							890,
+							291,
+							718,
+							296
+						],
+						"spans": [
+							{
+								"offset": 592,
+								"length": 18
+							}
+						]
+					},
+					{
+						"content": "SERVICE CENTRE: 447",
+						"polygon": [
+							588,
+							303,
+							730,
+							303,
+							730,
+							318,
+							588,
+							318
+						],
+						"spans": [
+							{
+								"offset": 611,
+								"length": 19
+							}
+						]
+					},
+					{
+						"content": "ADDRESS: Edinburgh - Utils. (447)",
+						"polygon": [
+							634,
+							320,
+							849,
+							316,
+							849,
+							332,
+							634,
+							336
+						],
+						"spans": [
+							{
+								"offset": 631,
+								"length": 33
+							}
+						]
+					},
+					{
+						"content": "BLOCK 3, FACTORY ROAD, WHITESIDE INDUSTRIAL",
+						"polygon": [
+							704,
+							335,
+							1039,
+							327,
+							1039,
+							342,
+							705,
+							351
+						],
+						"spans": [
+							{
+								"offset": 665,
+								"length": 43
+							}
+						]
+					},
+					{
+						"content": "ESTATE, BATHGATE, WEST LOTHIAN",
+						"polygon": [
+							706,
+							352,
+							934,
+							346,
+							934,
+							361,
+							706,
+							368
+						],
+						"spans": [
+							{
+								"offset": 709,
+								"length": 30
+							}
+						]
+					},
+					{
+						"content": "POSTCODE: EH48 2RX, 01506 656938",
+						"polygon": [
+							621,
+							386,
+							869,
+							380,
+							870,
+							396,
+							621,
+							402
+						],
+						"spans": [
+							{
+								"offset": 740,
+								"length": 32
+							}
+						]
+					},
+					{
+						"content": "SERVED BY: ANNE LINDSAY",
+						"polygon": [
+							624,
+							419,
+							804,
+							415,
+							805,
+							430,
+							624,
+							434
+						],
+						"spans": [
+							{
+								"offset": 773,
+								"length": 23
+							}
+						]
+					},
+					{
+						"content": "TELEPHONE: 01506 656938",
+						"polygon": [
+							619,
+							436,
+							799,
+							432,
+							799,
+							447,
+							620,
+							451
+						],
+						"spans": [
+							{
+								"offset": 797,
+								"length": 23
+							}
+						]
+					},
+					{
+						"content": "ORDER NO: 5245001489",
+						"polygon": [
+							625,
+							498,
+							787,
+							494,
+							787,
+							509,
+							626,
+							513
+						],
+						"spans": [
+							{
+								"offset": 821,
+								"length": 20
+							}
+						]
+					},
+					{
+						"content": "Code",
+						"polygon": [
+							106,
+							545,
+							138,
+							545,
+							138,
+							557,
+							106,
+							557
+						],
+						"spans": [
+							{
+								"offset": 842,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "Description",
+						"polygon": [
+							235,
+							543,
+							306,
+							543,
+							306,
+							557,
+							235,
+							557
+						],
+						"spans": [
+							{
+								"offset": 847,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "From",
+						"polygon": [
+							733,
+							535,
+							765,
+							535,
+							765,
+							548,
+							733,
+							548
+						],
+						"spans": [
+							{
+								"offset": 859,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "To",
+						"polygon": [
+							842,
+							533,
+							859,
+							534,
+							859,
+							545,
+							843,
+							545
+						],
+						"spans": [
+							{
+								"offset": 864,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "Qty",
+						"polygon": [
+							945,
+							530,
+							969,
+							530,
+							968,
+							544,
+							945,
+							543
+						],
+						"spans": [
+							{
+								"offset": 867,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "Per",
+						"polygon": [
+							999,
+							529,
+							1023,
+							529,
+							1022,
+							541,
+							999,
+							541
+						],
+						"spans": [
+							{
+								"offset": 871,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "A1085653",
+						"polygon": [
+							100,
+							565,
+							167,
+							565,
+							167,
+							578,
+							100,
+							578
+						],
+						"spans": [
+							{
+								"offset": 875,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "40V ELECTRO-FUSION BOX",
+						"polygon": [
+							231,
+							563,
+							410,
+							561,
+							411,
+							576,
+							231,
+							579
+						],
+						"spans": [
+							{
+								"offset": 884,
+								"length": 22
+							}
+						]
+					},
+					{
+						"content": "16-JUN-22",
+						"polygon": [
+							730,
+							556,
+							799,
+							554,
+							799,
+							569,
+							730,
+							571
+						],
+						"spans": [
+							{
+								"offset": 907,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "1",
+						"polygon": [
+							943,
+							551,
+							951,
+							551,
+							951,
+							565,
+							943,
+							565
+						],
+						"spans": [
+							{
+								"offset": 917,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "WK",
+						"polygon": [
+							998,
+							550,
+							1023,
+							550,
+							1023,
+							563,
+							998,
+							562
+						],
+						"spans": [
+							{
+								"offset": 919,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "288350",
+						"polygon": [
+							99,
+							587,
+							151,
+							588,
+							150,
+							601,
+							99,
+							600
+						],
+						"spans": [
+							{
+								"offset": 922,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "40V ELECTROFUSION LEAD",
+						"polygon": [
+							231,
+							585,
+							410,
+							584,
+							411,
+							600,
+							231,
+							601
+						],
+						"spans": [
+							{
+								"offset": 929,
+								"length": 22
+							}
+						]
+					},
+					{
+						"content": "16-JUN-22",
+						"polygon": [
+							732,
+							579,
+							799,
+							578,
+							800,
+							592,
+							732,
+							593
+						],
+						"spans": [
+							{
+								"offset": 952,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "1",
+						"polygon": [
+							944,
+							575,
+							952,
+							575,
+							952,
+							587,
+							944,
+							587
+						],
+						"spans": [
+							{
+								"offset": 962,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "WK",
+						"polygon": [
+							999,
+							573,
+							1024,
+							573,
+							1024,
+							586,
+							1000,
+							586
+						],
+						"spans": [
+							{
+								"offset": 964,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "A1081675",
+						"polygon": [
+							99,
+							611,
+							167,
+							611,
+							167,
+							624,
+							99,
+							624
+						],
+						"spans": [
+							{
+								"offset": 967,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "TIN 12 7.5KVA P.GENERATOR",
+						"polygon": [
+							230,
+							608,
+							421,
+							607,
+							421,
+							623,
+							231,
+							624
+						],
+						"spans": [
+							{
+								"offset": 976,
+								"length": 25
+							}
+						]
+					},
+					{
+						"content": "16-JUN-22",
+						"polygon": [
+							730,
+							602,
+							800,
+							600,
+							801,
+							615,
+							730,
+							617
+						],
+						"spans": [
+							{
+								"offset": 1002,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "4",
+						"polygon": [
+							886,
+							603,
+							896,
+							603,
+							895,
+							612,
+							885,
+							612
+						],
+						"spans": [
+							{
+								"offset": 1012,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "1",
+						"polygon": [
+							944,
+							598,
+							952,
+							597,
+							953,
+							611,
+							945,
+							612
+						],
+						"spans": [
+							{
+								"offset": 1014,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "WK",
+						"polygon": [
+							1000,
+							596,
+							1027,
+							596,
+							1026,
+							608,
+							1000,
+							608
+						],
+						"spans": [
+							{
+								"offset": 1016,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "A709080",
+						"polygon": [
+							99,
+							634,
+							159,
+							633,
+							159,
+							648,
+							99,
+							648
+						],
+						"spans": [
+							{
+								"offset": 1019,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "180mm ALIGNMENT CLAMP",
+						"polygon": [
+							232,
+							632,
+							417,
+							630,
+							417,
+							645,
+							232,
+							647
+						],
+						"spans": [
+							{
+								"offset": 1027,
+								"length": 21
+							}
+						]
+					},
+					{
+						"content": "16-JUN-22",
+						"polygon": [
+							733,
+							625,
+							800,
+							624,
+							801,
+							638,
+							733,
+							639
+						],
+						"spans": [
+							{
+								"offset": 1049,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "1",
+						"polygon": [
+							945,
+							622,
+							951,
+							622,
+							953,
+							634,
+							946,
+							635
+						],
+						"spans": [
+							{
+								"offset": 1059,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "WK",
+						"polygon": [
+							1000,
+							619,
+							1028,
+							619,
+							1027,
+							632,
+							1000,
+							631
+						],
+						"spans": [
+							{
+								"offset": 1061,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "A700605",
+						"polygon": [
+							99,
+							656,
+							158,
+							656,
+							158,
+							671,
+							99,
+							671
+						],
+						"spans": [
+							{
+								"offset": 1064,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "SHELTER M: 2.5 x 2.5x2m",
+						"polygon": [
+							229,
+							654,
+							404,
+							654,
+							404,
+							669,
+							230,
+							670
+						],
+						"spans": [
+							{
+								"offset": 1072,
+								"length": 23
+							}
+						]
+					},
+					{
+						"content": "16-JUN-22",
+						"polygon": [
+							733,
+							647,
+							802,
+							647,
+							802,
+							661,
+							733,
+							662
+						],
+						"spans": [
+							{
+								"offset": 1096,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "1",
+						"polygon": [
+							945,
+							645,
+							952,
+							645,
+							953,
+							657,
+							945,
+							657
+						],
+						"spans": [
+							{
+								"offset": 1106,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "WK",
+						"polygon": [
+							1001,
+							642,
+							1027,
+							642,
+							1027,
+							655,
+							1002,
+							654
+						],
+						"spans": [
+							{
+								"offset": 1108,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "A1237039",
+						"polygon": [
+							98,
+							680,
+							166,
+							680,
+							166,
+							694,
+							98,
+							695
+						],
+						"spans": [
+							{
+								"offset": 1111,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "Mech.Pipe Scraper 63-250",
+						"polygon": [
+							230,
+							678,
+							397,
+							676,
+							397,
+							693,
+							230,
+							694
+						],
+						"spans": [
+							{
+								"offset": 1120,
+								"length": 24
+							}
+						]
+					},
+					{
+						"content": "16-JUN-22",
+						"polygon": [
+							733,
+							671,
+							801,
+							670,
+							802,
+							684,
+							733,
+							686
+						],
+						"spans": [
+							{
+								"offset": 1145,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "1",
+						"polygon": [
+							945,
+							667,
+							953,
+							667,
+							954,
+							680,
+							946,
+							680
+						],
+						"spans": [
+							{
+								"offset": 1155,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "WK",
+						"polygon": [
+							1001,
+							665,
+							1028,
+							665,
+							1027,
+							678,
+							1001,
+							677
+						],
+						"spans": [
+							{
+								"offset": 1157,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "PSSDEL1",
+						"polygon": [
+							99,
+							703,
+							154,
+							703,
+							154,
+							717,
+							99,
+							717
+						],
+						"spans": [
+							{
+								"offset": 1160,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "DELIVERY CHARGE",
+						"polygon": [
+							230,
+							701,
+							356,
+							701,
+							356,
+							715,
+							230,
+							716
+						],
+						"spans": [
+							{
+								"offset": 1168,
+								"length": 15
+							}
+						]
+					},
+					{
+						"content": "1",
+						"polygon": [
+							946,
+							690,
+							954,
+							690,
+							955,
+							703,
+							947,
+							703
+						],
+						"spans": [
+							{
+								"offset": 1184,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "SLE",
+						"polygon": [
+							1004,
+							690,
+							1027,
+							689,
+							1026,
+							702,
+							1004,
+							702
+						],
+						"spans": [
+							{
+								"offset": 1186,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "PSSCOL1",
+						"polygon": [
+							97,
+							727,
+							158,
+							727,
+							159,
+							741,
+							97,
+							741
+						],
+						"spans": [
+							{
+								"offset": 1190,
+								"length": 7
+							}
+						]
+					},
+					{
+						"content": "COLLECTION CHARGE",
+						"polygon": [
+							229,
+							724,
+							381,
+							723,
+							381,
+							738,
+							229,
+							740
+						],
+						"spans": [
+							{
+								"offset": 1198,
+								"length": 17
+							}
+						]
+					},
+					{
+						"content": "1",
+						"polygon": [
+							947,
+							714,
+							955,
+							714,
+							956,
+							726,
+							948,
+							726
+						],
+						"spans": [
+							{
+								"offset": 1216,
+								"length": 1
+							}
+						]
+					},
+					{
+						"content": "SLE",
+						"polygon": [
+							1004,
+							712,
+							1028,
+							712,
+							1028,
+							725,
+							1004,
+							725
+						],
+						"spans": [
+							{
+								"offset": 1218,
+								"length": 3
+							}
+						]
+					},
+					{
+						"content": "NOTE: YOU ARE NOT COVEREDBY SU NBELT RENTALS INSURANCE",
+						"polygon": [
+							229,
+							748,
+							661,
+							743,
+							662,
+							757,
+							229,
+							764
+						],
+						"spans": [
+							{
+								"offset": 1222,
+								"length": 54
+							}
+						]
+					},
+					{
+						"content": "63MM PIPE",
+						"polygon": [
+							231,
+							772,
+							308,
+							772,
+							308,
+							785,
+							231,
+							786
+						],
+						"spans": [
+							{
+								"offset": 1277,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "Booking Reference 4691258",
+						"polygon": [
+							230,
+							796,
+							408,
+							792,
+							408,
+							807,
+							230,
+							811
+						],
+						"spans": [
+							{
+								"offset": 1287,
+								"length": 25
+							}
+						]
+					},
+					{
+						"content": "CUSTOMEYECORK",
+						"polygon": [
+							330,
+							968,
+							697,
+							588,
+							733,
+							624,
+							365,
+							1003
+						],
+						"spans": [
+							{
+								"offset": 1313,
+								"length": 13
+							}
+						]
+					},
+					{
+						"content": "INSURANCE IS THE CUSTOMERS RESPONSIBILITY. IF NEEDED CALL 0370 050 0797 AND ASK ABOUT SUNBELT RENTALS INSURANCE.",
+						"polygon": [
+							107,
+							1416,
+							979,
+							1402,
+							980,
+							1418,
+							107,
+							1436
+						],
+						"spans": [
+							{
+								"offset": 1327,
+								"length": 112
+							}
+						]
+					},
+					{
+						"content": "+ A VAST RANGE OF TRAINING COURSES ARE AVAILABLE. FOR MORE INFORMATION CALL SUNBELT RENTALS CUSTOMER TRAINING SOLUTIONS",
+						"polygon": [
+							90,
+							1438,
+							1065,
+							1422,
+							1066,
+							1438,
+							90,
+							1459
+						],
+						"spans": [
+							{
+								"offset": 1440,
+								"length": 119
+							}
+						]
+					},
+					{
+						"content": "ON 0115 924 1349 OR PLEASE VISIT OUR WEBSITE AT www.sunbeltrentals.co.uk",
+						"polygon": [
+							88,
+							1459,
+							625,
+							1449,
+							625,
+							1464,
+							89,
+							1480
+						],
+						"spans": [
+							{
+								"offset": 1560,
+								"length": 72
+							}
+						]
+					},
+					{
+						"content": "TERMS AND CONDITIONS OF HIRE ARE AVAILABLE FROM YOUR DRIVER OR ON OUR WEBSITE AT www.sunbeltrentals.co.uk",
+						"polygon": [
+							105,
+							1478,
+							924,
+							1465,
+							925,
+							1481,
+							105,
+							1500
+						],
+						"spans": [
+							{
+								"offset": 1633,
+								"length": 105
+							}
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 1738
+					}
+				],
+				"kind": "document"
+			}
+		],
+		"tables": [
+			{
+				"rowCount": 12,
+				"columnCount": 6,
+				"cells": [
+					{
+						"kind": "columnHeader",
+						"rowIndex": 0,
+						"columnIndex": 0,
+						"content": "Code",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									100,
+									541,
+									228,
+									539,
+									228,
+									559,
+									99,
+									561
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 842,
+								"length": 4
+							}
+						]
+					},
+					{
+						"kind": "columnHeader",
+						"rowIndex": 0,
+						"columnIndex": 1,
+						"content": "Description",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									228,
+									539,
+									727,
+									531,
+									727,
+									551,
+									228,
+									559
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 847,
+								"length": 11
+							}
+						]
+					},
+					{
+						"kind": "columnHeader",
+						"rowIndex": 0,
+						"columnIndex": 2,
+						"content": "From",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									727,
+									531,
+									838,
+									528,
+									838,
+									548,
+									727,
+									551
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 859,
+								"length": 4
+							}
+						]
+					},
+					{
+						"kind": "columnHeader",
+						"rowIndex": 0,
+						"columnIndex": 3,
+						"content": "To",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									838,
+									528,
+									941,
+									526,
+									941,
+									547,
+									838,
+									548
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 864,
+								"length": 2
+							}
+						]
+					},
+					{
+						"kind": "columnHeader",
+						"rowIndex": 0,
+						"columnIndex": 4,
+						"content": "Qty",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									941,
+									526,
+									995,
+									525,
+									996,
+									546,
+									941,
+									547
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 867,
+								"length": 3
+							}
+						]
+					},
+					{
+						"kind": "columnHeader",
+						"rowIndex": 0,
+						"columnIndex": 5,
+						"content": "Per",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									995,
+									525,
+									1047,
+									525,
+									1048,
+									546,
+									996,
+									546
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 871,
+								"length": 3
+							}
+						]
+					},
+					{
+						"rowIndex": 1,
+						"columnIndex": 0,
+						"content": "A1085653",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									99,
+									561,
+									228,
+									559,
+									228,
+									582,
+									99,
+									583
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 875,
+								"length": 8
+							}
+						]
+					},
+					{
+						"rowIndex": 1,
+						"columnIndex": 1,
+						"content": "40V ELECTRO-FUSION BOX",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									228,
+									559,
+									727,
+									551,
+									727,
+									575,
+									228,
+									582
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 884,
+								"length": 22
+							}
+						]
+					},
+					{
+						"rowIndex": 1,
+						"columnIndex": 2,
+						"content": "16-JUN-22",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									727,
+									551,
+									838,
+									548,
+									838,
+									572,
+									727,
+									575
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 907,
+								"length": 9
+							}
+						]
+					},
+					{
+						"rowIndex": 1,
+						"columnIndex": 3,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									838,
+									548,
+									941,
+									547,
+									942,
+									569,
+									838,
+									572
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 1,
+						"columnIndex": 4,
+						"content": "1",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									941,
+									547,
+									996,
+									546,
+									997,
+									568,
+									942,
+									569
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 917,
+								"length": 1
+							}
+						]
+					},
+					{
+						"rowIndex": 1,
+						"columnIndex": 5,
+						"content": "WK",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									996,
+									546,
+									1048,
+									546,
+									1049,
+									568,
+									997,
+									568
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 919,
+								"length": 2
+							}
+						]
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 0,
+						"content": "288350",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									99,
+									583,
+									228,
+									582,
+									228,
+									605,
+									99,
+									606
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 922,
+								"length": 6
+							}
+						]
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 1,
+						"content": "40V ELECTROFUSION LEAD",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									228,
+									582,
+									727,
+									575,
+									728,
+									597,
+									228,
+									605
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 929,
+								"length": 22
+							}
+						]
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 2,
+						"content": "16-JUN-22",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									727,
+									575,
+									838,
+									572,
+									838,
+									594,
+									728,
+									597
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 952,
+								"length": 9
+							}
+						]
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 3,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									838,
+									572,
+									942,
+									569,
+									942,
+									592,
+									838,
+									594
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 4,
+						"content": "1",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									942,
+									569,
+									997,
+									568,
+									997,
+									589,
+									942,
+									592
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 962,
+								"length": 1
+							}
+						]
+					},
+					{
+						"rowIndex": 2,
+						"columnIndex": 5,
+						"content": "WK",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									997,
+									568,
+									1049,
+									568,
+									1050,
+									588,
+									997,
+									589
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 964,
+								"length": 2
+							}
+						]
+					},
+					{
+						"rowIndex": 3,
+						"columnIndex": 0,
+						"content": "A1081675",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									99,
+									606,
+									228,
+									605,
+									228,
+									628,
+									98,
+									630
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 967,
+								"length": 8
+							}
+						]
+					},
+					{
+						"rowIndex": 3,
+						"columnIndex": 1,
+						"content": "TIN 12 7.5KVA P.GENERATOR",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									228,
+									605,
+									728,
+									597,
+									728,
+									620,
+									228,
+									628
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 976,
+								"length": 25
+							}
+						]
+					},
+					{
+						"rowIndex": 3,
+						"columnIndex": 2,
+						"content": "16-JUN-22",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									728,
+									597,
+									838,
+									594,
+									839,
+									618,
+									728,
+									620
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1002,
+								"length": 9
+							}
+						]
+					},
+					{
+						"rowIndex": 3,
+						"columnIndex": 3,
+						"content": "4",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									838,
+									594,
+									942,
+									592,
+									943,
+									616,
+									839,
+									618
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1012,
+								"length": 1
+							}
+						]
+					},
+					{
+						"rowIndex": 3,
+						"columnIndex": 4,
+						"content": "1",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									942,
+									592,
+									997,
+									589,
+									998,
+									614,
+									943,
+									616
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1014,
+								"length": 1
+							}
+						]
+					},
+					{
+						"rowIndex": 3,
+						"columnIndex": 5,
+						"content": "WK",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									997,
+									589,
+									1050,
+									588,
+									1050,
+									612,
+									998,
+									614
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1016,
+								"length": 2
+							}
+						]
+					},
+					{
+						"rowIndex": 4,
+						"columnIndex": 0,
+						"content": "A709080",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									98,
+									630,
+									228,
+									628,
+									228,
+									651,
+									98,
+									653
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1019,
+								"length": 7
+							}
+						]
+					},
+					{
+						"rowIndex": 4,
+						"columnIndex": 1,
+						"content": "180mm ALIGNMENT CLAMP",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									228,
+									628,
+									728,
+									620,
+									729,
+									643,
+									228,
+									651
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1027,
+								"length": 21
+							}
+						]
+					},
+					{
+						"rowIndex": 4,
+						"columnIndex": 2,
+						"content": "16-JUN-22",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									728,
+									620,
+									839,
+									618,
+									839,
+									641,
+									729,
+									643
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1049,
+								"length": 9
+							}
+						]
+					},
+					{
+						"rowIndex": 4,
+						"columnIndex": 3,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									839,
+									618,
+									943,
+									616,
+									943,
+									639,
+									839,
+									641
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 4,
+						"columnIndex": 4,
+						"content": "1",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									943,
+									616,
+									998,
+									614,
+									999,
+									637,
+									943,
+									639
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1059,
+								"length": 1
+							}
+						]
+					},
+					{
+						"rowIndex": 4,
+						"columnIndex": 5,
+						"content": "WK",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									998,
+									614,
+									1050,
+									612,
+									1051,
+									635,
+									999,
+									637
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1061,
+								"length": 2
+							}
+						]
+					},
+					{
+						"rowIndex": 5,
+						"columnIndex": 0,
+						"content": "A700605",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									98,
+									653,
+									228,
+									651,
+									228,
+									674,
+									98,
+									676
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1064,
+								"length": 7
+							}
+						]
+					},
+					{
+						"rowIndex": 5,
+						"columnIndex": 1,
+						"content": "SHELTER M: 2.5 x 2.5x2m",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									228,
+									651,
+									729,
+									643,
+									729,
+									667,
+									228,
+									674
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1072,
+								"length": 23
+							}
+						]
+					},
+					{
+						"rowIndex": 5,
+						"columnIndex": 2,
+						"content": "16-JUN-22",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									729,
+									643,
+									839,
+									641,
+									839,
+									664,
+									729,
+									667
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1096,
+								"length": 9
+							}
+						]
+					},
+					{
+						"rowIndex": 5,
+						"columnIndex": 3,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									839,
+									641,
+									943,
+									639,
+									943,
+									662,
+									839,
+									664
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 5,
+						"columnIndex": 4,
+						"content": "1",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									943,
+									639,
+									999,
+									637,
+									999,
+									661,
+									943,
+									662
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1106,
+								"length": 1
+							}
+						]
+					},
+					{
+						"rowIndex": 5,
+						"columnIndex": 5,
+						"content": "WK",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									999,
+									637,
+									1051,
+									635,
+									1052,
+									660,
+									999,
+									661
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1108,
+								"length": 2
+							}
+						]
+					},
+					{
+						"rowIndex": 6,
+						"columnIndex": 0,
+						"content": "A1237039",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									98,
+									676,
+									228,
+									674,
+									227,
+									697,
+									97,
+									700
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1111,
+								"length": 8
+							}
+						]
+					},
+					{
+						"rowIndex": 6,
+						"columnIndex": 1,
+						"content": "Mech.Pipe Scraper 63-250",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									228,
+									674,
+									729,
+									667,
+									729,
+									690,
+									227,
+									697
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1120,
+								"length": 24
+							}
+						]
+					},
+					{
+						"rowIndex": 6,
+						"columnIndex": 2,
+						"content": "16-JUN-22",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									729,
+									667,
+									839,
+									664,
+									840,
+									687,
+									729,
+									690
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1145,
+								"length": 9
+							}
+						]
+					},
+					{
+						"rowIndex": 6,
+						"columnIndex": 3,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									839,
+									664,
+									943,
+									662,
+									944,
+									685,
+									840,
+									687
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 6,
+						"columnIndex": 4,
+						"content": "1",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									943,
+									662,
+									999,
+									661,
+									1000,
+									684,
+									944,
+									685
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1155,
+								"length": 1
+							}
+						]
+					},
+					{
+						"rowIndex": 6,
+						"columnIndex": 5,
+						"content": "WK",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									999,
+									661,
+									1052,
+									660,
+									1053,
+									683,
+									1000,
+									684
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1157,
+								"length": 2
+							}
+						]
+					},
+					{
+						"rowIndex": 7,
+						"columnIndex": 0,
+						"content": "PSSDEL1",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									97,
+									700,
+									227,
+									697,
+									227,
+									720,
+									97,
+									723
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1160,
+								"length": 7
+							}
+						]
+					},
+					{
+						"rowIndex": 7,
+						"columnIndex": 1,
+						"content": "DELIVERY CHARGE",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									227,
+									697,
+									729,
+									690,
+									730,
+									713,
+									227,
+									720
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1168,
+								"length": 15
+							}
+						]
+					},
+					{
+						"rowIndex": 7,
+						"columnIndex": 2,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									729,
+									690,
+									840,
+									687,
+									840,
+									710,
+									730,
+									713
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 7,
+						"columnIndex": 3,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									840,
+									687,
+									944,
+									685,
+									944,
+									708,
+									840,
+									710
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 7,
+						"columnIndex": 4,
+						"content": "1",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									944,
+									685,
+									1000,
+									684,
+									1001,
+									706,
+									944,
+									708
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1184,
+								"length": 1
+							}
+						]
+					},
+					{
+						"rowIndex": 7,
+						"columnIndex": 5,
+						"content": "SLE",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									1000,
+									684,
+									1053,
+									683,
+									1054,
+									705,
+									1001,
+									706
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1186,
+								"length": 3
+							}
+						]
+					},
+					{
+						"rowIndex": 8,
+						"columnIndex": 0,
+						"content": "PSSCOL1",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									97,
+									723,
+									227,
+									720,
+									227,
+									744,
+									97,
+									747
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1190,
+								"length": 7
+							}
+						]
+					},
+					{
+						"rowIndex": 8,
+						"columnIndex": 1,
+						"content": "COLLECTION CHARGE",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									227,
+									720,
+									730,
+									713,
+									730,
+									736,
+									227,
+									744
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1198,
+								"length": 17
+							}
+						]
+					},
+					{
+						"rowIndex": 8,
+						"columnIndex": 2,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									730,
+									713,
+									840,
+									710,
+									840,
+									734,
+									730,
+									736
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 8,
+						"columnIndex": 3,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									840,
+									710,
+									944,
+									708,
+									945,
+									732,
+									840,
+									734
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 8,
+						"columnIndex": 4,
+						"content": "1",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									944,
+									708,
+									1001,
+									706,
+									1001,
+									731,
+									945,
+									732
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1216,
+								"length": 1
+							}
+						]
+					},
+					{
+						"rowIndex": 8,
+						"columnIndex": 5,
+						"content": "SLE",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									1001,
+									706,
+									1054,
+									705,
+									1055,
+									730,
+									1001,
+									731
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1218,
+								"length": 3
+							}
+						]
+					},
+					{
+						"rowIndex": 9,
+						"columnIndex": 0,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									97,
+									747,
+									227,
+									744,
+									227,
+									767,
+									96,
+									770
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 9,
+						"columnIndex": 1,
+						"content": "NOTE: YOU ARE NOT COVEREDBY SU NBELT RENTALS INSURANCE",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									227,
+									744,
+									730,
+									736,
+									731,
+									759,
+									227,
+									767
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1222,
+								"length": 54
+							}
+						]
+					},
+					{
+						"rowIndex": 9,
+						"columnIndex": 2,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									730,
+									736,
+									840,
+									734,
+									841,
+									756,
+									731,
+									759
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 9,
+						"columnIndex": 3,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									840,
+									734,
+									945,
+									732,
+									945,
+									755,
+									841,
+									756
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 9,
+						"columnIndex": 4,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									945,
+									732,
+									1001,
+									731,
+									1002,
+									754,
+									945,
+									755
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 9,
+						"columnIndex": 5,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									1001,
+									731,
+									1055,
+									730,
+									1055,
+									753,
+									1002,
+									754
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 10,
+						"columnIndex": 0,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									96,
+									770,
+									227,
+									767,
+									227,
+									791,
+									96,
+									794
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 10,
+						"columnIndex": 1,
+						"content": "63MM PIPE",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									227,
+									767,
+									731,
+									759,
+									731,
+									782,
+									227,
+									791
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1277,
+								"length": 9
+							}
+						]
+					},
+					{
+						"rowIndex": 10,
+						"columnIndex": 2,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									731,
+									759,
+									841,
+									756,
+									841,
+									780,
+									731,
+									782
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 10,
+						"columnIndex": 3,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									841,
+									756,
+									945,
+									755,
+									945,
+									778,
+									841,
+									780
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 10,
+						"columnIndex": 4,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									945,
+									755,
+									1002,
+									754,
+									1003,
+									777,
+									945,
+									778
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 10,
+						"columnIndex": 5,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									1002,
+									754,
+									1055,
+									753,
+									1056,
+									776,
+									1003,
+									777
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 11,
+						"columnIndex": 0,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									96,
+									794,
+									227,
+									791,
+									227,
+									814,
+									96,
+									817
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 11,
+						"columnIndex": 1,
+						"content": "Booking Reference 4691258",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									227,
+									791,
+									731,
+									782,
+									731,
+									805,
+									227,
+									814
+								]
+							}
+						],
+						"spans": [
+							{
+								"offset": 1287,
+								"length": 25
+							}
+						]
+					},
+					{
+						"rowIndex": 11,
+						"columnIndex": 2,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									731,
+									782,
+									841,
+									780,
+									841,
+									803,
+									731,
+									805
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 11,
+						"columnIndex": 3,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									841,
+									780,
+									945,
+									778,
+									946,
+									801,
+									841,
+									803
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 11,
+						"columnIndex": 4,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									945,
+									778,
+									1003,
+									777,
+									1003,
+									800,
+									946,
+									801
+								]
+							}
+						],
+						"spans": []
+					},
+					{
+						"rowIndex": 11,
+						"columnIndex": 5,
+						"content": "",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									1003,
+									777,
+									1056,
+									776,
+									1057,
+									799,
+									1003,
+									800
+								]
+							}
+						],
+						"spans": []
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							93,
+							542,
+							1055,
+							526,
+							1060,
+							803,
+							97,
+							820
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 842,
+						"length": 470
+					}
+				]
+			}
+		],
+		"styles": [],
+		"documents": [
+			{
+				"docType": "DT4_sunbelt_rentals_test3_1:DT4_sunbelt_rentals_test3_1",
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0,
+							0,
+							1200,
+							0,
+							1200,
+							1600,
+							0,
+							1600
+						]
+					}
+				],
+				"fields": {
+					"Supplier Reference": {
+						"type": "string",
+						"valueString": "CREDIT 447-010443",
+						"content": "CREDIT\n447-010443",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									103,
+									199,
+									412,
+									199,
+									412,
+									225,
+									103,
+									225
+								]
+							}
+						],
+						"confidence": 0.947,
+						"spans": [
+							{
+								"offset": 17,
+								"length": 6
+							},
+							{
+								"offset": 38,
+								"length": 10
+							}
+						]
+					},
+					"Date": {
+						"type": "string",
+						"valueString": "15-JUN-22",
+						"content": "15-JUN-22",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									417,
+									198,
+									501,
+									198,
+									501,
+									220,
+									417,
+									220
+								]
+							}
+						],
+						"confidence": 0.995,
+						"spans": [
+							{
+								"offset": 49,
+								"length": 9
+							}
+						]
+					},
+					"Company": {
+						"type": "string",
+						"valueString": "Scottish Water (GTCL)",
+						"content": "Scottish Water (GTCL)",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									228,
+									305,
+									366,
+									305,
+									366,
+									323,
+									228,
+									323
+								]
+							}
+						],
+						"confidence": 0.993,
+						"spans": [
+							{
+								"offset": 97,
+								"length": 21
+							}
+						]
+					},
+					"Supplier": {
+						"type": "string",
+						"valueString": "SUNBELT® RENTALS",
+						"content": "SUNBELT® RENTALS",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									121,
+									139,
+									251,
+									139,
+									251,
+									176,
+									121,
+									176
+								]
+							}
+						],
+						"confidence": 0.99,
+						"spans": [
+							{
+								"offset": 0,
+								"length": 16
+							}
+						]
+					},
+					"Supplier Depot": {
+						"type": "string",
+						"valueString": "Sunbelt Rentals Ltd 102 Dalton Avenue Birchwood Park Warrington WA3 6YE",
+						"content": "Sunbelt Rentals Ltd 102 Dalton Avenue Birchwood Park Warrington WA3 6YE",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									915,
+									49,
+									1032,
+									49,
+									1032,
+									128,
+									915,
+									128
+								]
+							}
+						],
+						"confidence": 0.882,
+						"spans": [
+							{
+								"offset": 396,
+								"length": 71
+							}
+						]
+					},
+					"PO no.": {
+						"type": "string",
+						"valueString": "5245001489",
+						"content": "5245001489",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									705,
+									495,
+									785,
+									495,
+									785,
+									511,
+									705,
+									511
+								]
+							}
+						],
+						"confidence": 0.994,
+						"spans": [
+							{
+								"offset": 831,
+								"length": 10
+							}
+						]
+					},
+					"Delivery Details": {
+						"type": "array",
+						"valueArray": [
+							{
+								"type": "object",
+								"valueObject": {
+									"Item no.": {
+										"type": "string",
+										"valueString": "40V ELECTRO-FUSION BOX",
+										"content": "40V ELECTRO-FUSION BOX",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													231,
+													562,
+													407,
+													562,
+													407,
+													579,
+													231,
+													579
+												]
+											}
+										],
+										"spans": [
+											{
+												"offset": 884,
+												"length": 22
+											}
+										]
+									},
+									"Quantity": {
+										"type": "string",
+										"valueString": "1",
+										"content": "1",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													944,
+													551,
+													950,
+													551,
+													950,
+													565,
+													944,
+													565
+												]
+											}
+										],
+										"spans": [
+											{
+												"offset": 917,
+												"length": 1
+											}
+										]
+									},
+									"Unit": {
+										"type": "string",
+										"valueString": "WK",
+										"content": "WK",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													998,
+													550,
+													1021,
+													550,
+													1021,
+													563,
+													998,
+													563
+												]
+											}
+										],
+										"spans": [
+											{
+												"offset": 919,
+												"length": 2
+											}
+										]
+									}
+								}
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Item no.": {
+										"type": "string",
+										"valueString": "40V ELECTROFUSION LEAD",
+										"content": "40V ELECTROFUSION LEAD",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													232,
+													585,
+													406,
+													585,
+													406,
+													601,
+													232,
+													601
+												]
+											}
+										],
+										"spans": [
+											{
+												"offset": 929,
+												"length": 22
+											}
+										]
+									},
+									"Quantity": {
+										"type": "string",
+										"valueString": "1",
+										"content": "1",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													945,
+													575,
+													952,
+													575,
+													952,
+													587,
+													945,
+													587
+												]
+											}
+										],
+										"spans": [
+											{
+												"offset": 962,
+												"length": 1
+											}
+										]
+									},
+									"Unit": {
+										"type": "string",
+										"valueString": "WK",
+										"content": "WK",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													999,
+													573,
+													1021,
+													573,
+													1021,
+													586,
+													999,
+													586
+												]
+											}
+										],
+										"spans": [
+											{
+												"offset": 964,
+												"length": 2
+											}
+										]
+									}
+								}
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Item no.": {
+										"type": "string",
+										"valueString": "TIN 12 7.5KVA P.GENERATOR",
+										"content": "TIN 12 7.5KVA P.GENERATOR",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													231,
+													608,
+													418,
+													608,
+													418,
+													625,
+													231,
+													625
+												]
+											}
+										],
+										"spans": [
+											{
+												"offset": 976,
+												"length": 25
+											}
+										]
+									},
+									"Quantity": {
+										"type": "string",
+										"valueString": "1",
+										"content": "1",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													944,
+													597,
+													952,
+													597,
+													952,
+													612,
+													944,
+													612
+												]
+											}
+										],
+										"spans": [
+											{
+												"offset": 1014,
+												"length": 1
+											}
+										]
+									},
+									"Unit": {
+										"type": "string",
+										"valueString": "WK",
+										"content": "WK",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													1000,
+													596,
+													1022,
+													596,
+													1022,
+													608,
+													1000,
+													608
+												]
+											}
+										],
+										"spans": [
+											{
+												"offset": 1016,
+												"length": 2
+											}
+										]
+									}
+								}
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Item no.": {
+										"type": "string",
+										"valueString": "180mm ALIGNMENT CLAMP",
+										"content": "180mm ALIGNMENT CLAMP",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													232,
+													631,
+													415,
+													631,
+													415,
+													648,
+													232,
+													648
+												]
+											}
+										],
+										"spans": [
+											{
+												"offset": 1027,
+												"length": 21
+											}
+										]
+									},
+									"Quantity": {
+										"type": "string",
+										"valueString": "1",
+										"content": "1",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													946,
+													622,
+													953,
+													622,
+													953,
+													635,
+													946,
+													635
+												]
+											}
+										],
+										"spans": [
+											{
+												"offset": 1059,
+												"length": 1
+											}
+										]
+									},
+									"Unit": {
+										"type": "string",
+										"valueString": "WK",
+										"content": "WK",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													1000,
+													619,
+													1023,
+													619,
+													1023,
+													632,
+													1000,
+													632
+												]
+											}
+										],
+										"spans": [
+											{
+												"offset": 1061,
+												"length": 2
+											}
+										]
+									}
+								}
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Item no.": {
+										"type": "string",
+										"valueString": "SHELTER M: 2.5 x 2.5x2m",
+										"content": "SHELTER M: 2.5 x 2.5x2m",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													230,
+													655,
+													398,
+													655,
+													398,
+													671,
+													230,
+													671
+												]
+											}
+										],
+										"spans": [
+											{
+												"offset": 1072,
+												"length": 23
+											}
+										]
+									},
+									"Quantity": {
+										"type": "string",
+										"valueString": "1",
+										"content": "1",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													946,
+													645,
+													953,
+													645,
+													953,
+													657,
+													946,
+													657
+												]
+											}
+										],
+										"spans": [
+											{
+												"offset": 1106,
+												"length": 1
+											}
+										]
+									},
+									"Unit": {
+										"type": "string",
+										"valueString": "WK",
+										"content": "WK",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													1001,
+													642,
+													1023,
+													642,
+													1023,
+													655,
+													1001,
+													655
+												]
+											}
+										],
+										"spans": [
+											{
+												"offset": 1108,
+												"length": 2
+											}
+										]
+									}
+								}
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Item no.": {
+										"type": "string",
+										"valueString": "Mech.Pipe Scraper 63-250",
+										"content": "Mech.Pipe Scraper 63-250",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													230,
+													677,
+													396,
+													677,
+													396,
+													694,
+													230,
+													694
+												]
+											}
+										],
+										"spans": [
+											{
+												"offset": 1120,
+												"length": 24
+											}
+										]
+									},
+									"Quantity": {
+										"type": "string",
+										"valueString": "1",
+										"content": "1",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													946,
+													667,
+													954,
+													667,
+													954,
+													680,
+													946,
+													680
+												]
+											}
+										],
+										"spans": [
+											{
+												"offset": 1155,
+												"length": 1
+											}
+										]
+									},
+									"Unit": {
+										"type": "string",
+										"valueString": "WK",
+										"content": "WK",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													1001,
+													665,
+													1025,
+													665,
+													1025,
+													678,
+													1001,
+													678
+												]
+											}
+										],
+										"spans": [
+											{
+												"offset": 1157,
+												"length": 2
+											}
+										]
+									}
+								}
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Item no.": {
+										"type": "string",
+										"valueString": "DELIVERY CHARGE",
+										"content": "DELIVERY CHARGE",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													230,
+													701,
+													353,
+													701,
+													353,
+													717,
+													230,
+													717
+												]
+											}
+										],
+										"spans": [
+											{
+												"offset": 1168,
+												"length": 15
+											}
+										]
+									},
+									"Quantity": {
+										"type": "string",
+										"valueString": "1",
+										"content": "1",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													947,
+													690,
+													955,
+													690,
+													955,
+													703,
+													947,
+													703
+												]
+											}
+										],
+										"spans": [
+											{
+												"offset": 1184,
+												"length": 1
+											}
+										]
+									},
+									"Unit": {
+										"type": "string",
+										"valueString": "SLE",
+										"content": "SLE",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													1004,
+													689,
+													1025,
+													689,
+													1025,
+													702,
+													1004,
+													702
+												]
+											}
+										],
+										"spans": [
+											{
+												"offset": 1186,
+												"length": 3
+											}
+										]
+									}
+								}
+							},
+							{
+								"type": "object",
+								"valueObject": {
+									"Item no.": {
+										"type": "string",
+										"valueString": "COLLECTION CHARGE",
+										"content": "COLLECTION CHARGE",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													230,
+													723,
+													379,
+													723,
+													379,
+													740,
+													230,
+													740
+												]
+											}
+										],
+										"spans": [
+											{
+												"offset": 1198,
+												"length": 17
+											}
+										]
+									},
+									"Quantity": {
+										"type": "string",
+										"valueString": "1",
+										"content": "1",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													948,
+													714,
+													955,
+													714,
+													955,
+													726,
+													948,
+													726
+												]
+											}
+										],
+										"spans": [
+											{
+												"offset": 1216,
+												"length": 1
+											}
+										]
+									},
+									"Unit": {
+										"type": "string",
+										"valueString": "SLE",
+										"content": "SLE",
+										"boundingRegions": [
+											{
+												"pageNumber": 1,
+												"polygon": [
+													1004,
+													712,
+													1026,
+													712,
+													1026,
+													725,
+													1004,
+													725
+												]
+											}
+										],
+										"spans": [
+											{
+												"offset": 1218,
+												"length": 3
+											}
+										]
+									}
+								}
+							}
+						]
+					}
+				},
+				"confidence": 0.519,
+				"spans": [
+					{
+						"offset": 0,
+						"length": 1738
+					}
+				]
+			}
+		]
+	}
+}
