@@ -53,18 +53,27 @@
       }
       #input,
       #output {
-        padding: 20px;
-        margin: 1%;
+      }
+      .input-container,
+      .output-container {
+        padding-left: 20px;
+        margin: 10px 1%;
         border: 1px solid gray;
-        width: 46%;
+        width: 48%;
         overflow: auto;
       }
     </style>
   </head>
   <body>
     <div class="main">
-      <pre id="input"></pre>
-      <pre id="output"></pre>
+      <div class="input-container">
+        <h2>Input</h2>
+        <pre id="input"></pre>
+      </div>
+      <div class="output-container">
+        <h2>Output</h2>
+        <pre id="output"></pre>
+      </div>
     </div>
   </body>
 </html>
