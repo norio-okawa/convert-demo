@@ -5,12 +5,66 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <title>Convert Json to Desired Model</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
     <script>
-      fetch("https://convert-demo.vercel.app/4c74cb25-49ae-47c6-a4eb-67268048c99e.jpeg.json")
-        .then((response) => response.json())
-        .then((json) => console.log(json));
+      let targetJson = [];
+      fetch(
+        "https://convert-demo.vercel.app/4c74cb25-49ae-47c6-a4eb-67268048c99e.jpeg.json"
+      )
+        .then((response) => {
+          return response.json();
+        })
+        .then((json) => {
+          document.getElementById("input").innerHTML = JSON.stringify(
+            json,
+            undefined,
+            2
+          );
+          let arr =
+            json.analyzeResult.documents[0].fields["Delivery Details"][
+              "valueArray"
+            ];
+          for (let index = 0; index < arr.length; index++) {
+            const element = arr[index];
+            // console.log(element)
+            const itemNo = element["valueObject"]["Item no."]["valueString"];
+            const quantity = element["valueObject"]["Quantity"]["valueString"];
+            const unit = element["valueObject"]["Unit"]["valueString"];
+            console.log(itemNo, quantity, unit);
+            targetJson.push({
+              "Item No": itemNo,
+              Quantity: quantity,
+              Unit: unit,
+            });
+          }
+
+          document.getElementById("output").innerHTML = JSON.stringify(
+            targetJson,
+            undefined,
+            2
+          );
+        });
     </script>
+    <style>
+      .main {
+        display: flex;
+      }
+      #input {
+        min-height: 100vh;
+      }
+      #input,
+      #output {
+        padding: 20px;
+        margin: 1%;
+        border: 1px solid gray;
+        width: 46%;
+        overflow: auto;
+      }
+    </style>
   </head>
-  <body></body>
+  <body>
+    <div class="main">
+      <pre id="input"></pre>
+      <pre id="output"></pre>
+    </div>
+  </body>
 </html>
